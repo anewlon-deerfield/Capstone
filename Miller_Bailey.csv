@@ -1,0 +1,726 @@
+﻿Oid,Year,Km marker,Region,Ageclass,Sex,Stranding type
+1,1984,442.5,R3,dependent pup,M,pup
+2,1984,462,R3,dependent pup,F,pup
+3,1984,448.5,R3,dependent pup,F,pup
+4,1984,445.5,R3,dependent pup,M,pup
+5,1984,426.5,Big Sur,dependent pup,F,pup
+6,1984,293.5,Big Sur,dependent pup,F,pup
+7,1985,285.5,Big Sur,adult,F,ELS\emaciation
+8,1985,505.5,R4,subadult,M,other
+9,1985,471.5,R4,juvenile,M,trauma
+10,1985,486.5,R4,subadult,F,trauma
+11,1986,456,R3,dependent pup,F,pup
+12,1986,474,R4,dependent pup,M,pup
+13,1986,445,R3,dependent pup,M,pup
+14,1986,500,R4,juvenile,M,trauma
+15,1986,500.5,R4,adult,M,trauma
+16,1986,482,R4,dependent pup,M,pup
+17,1986,471.5,R4,dependent pup,M,pup
+18,1986,471.5,R4,dependent pup,F,pup
+19,1987,499.5,R4,aged adult,M,geriatric
+20,1987,462.5,R3,dependent pup,F,pup
+21,1987,500,R4,aged adult,M,trauma
+22,1987,445.5,R3,subadult,F,trauma
+23,1987,500,R4,adult,M,trauma
+24,1987,511,R4,juvenile,M,trauma
+25,1987,473,R4,dependent pup,M,pup
+26,1987,567.5,R5,adult,M,shark bite
+27,1987,293,Big Sur,dependent pup,F,pup
+28,1988,465,R3,juvenile,M,other
+29,1988,456,R3,dependent pup,M,pup
+30,1988,471.5,R4,adult,F,ELS\emaciation
+31,1988,471,R3,aged adult,F,geriatric
+32,1988,500,R4,adult,M,trauma
+33,1988,293,Big Sur,dependent pup,M,pup
+34,1988,343.5,Big Sur,adult,F,ELS\emaciation
+35,1988,471,R3,dependent pup,M,pup
+36,1988,467,R3,adult,F,ELS\emaciation
+37,1988,485,R4,dependent pup,F,pup
+38,1988,457,R3,juvenile,F,ELS\emaciation
+39,1988,725,R5,adult,M,neurological disease
+40,1989,293,Big Sur,dependent pup,M,pup
+41,1989,470,R3,dependent pup,F,pup
+42,1989,463,R3,aged adult,F,geriatric
+43,1989,470.5,R3,juvenile,F,trauma
+44,1989,465,R3,dependent pup,M,pup
+45,1989,471.5,R4,aged adult,M,trauma
+46,1989,522,R4,subadult,M,other
+47,1989,466.5,R3,dependent pup,M,pup
+48,1989,531.5,R5,dependent pup,M,pup
+49,1989,511,R4,aged adult,M,geriatric
+50,1990,467.5,R3,aged adult,F,ELS\emaciation
+51,1990,566,R5,adult,M,shark bite
+52,1990,291.5,Big Sur,dependent pup,F,pup
+53,1990,499.5,R4,adult,M,neurological disease
+54,1990,474,R4,dependent pup,M,pup
+55,1990,470,R3,subadult,F,trauma
+56,1990,500,R4,aged adult,M,geriatric
+57,1991,470,R3,adult,F,ELS\emaciation
+58,1991,524.5,R4,adult,M,other
+59,1991,295,Big Sur,dependent pup,M,pup
+60,1991,534,R5,dependent pup,M,pup
+61,1991,499,R4,aged adult,M,geriatric
+62,1991,473.5,R4,dependent pup,M,pup
+63,1991,456.5,R3,dependent pup,M,pup
+64,1991,471.5,R4,adult,F,ELS\emaciation
+65,1991,467.5,R3,juvenile,F,ELS\emaciation
+66,1991,473.5,R4,aged adult,M,geriatric
+67,1991,416,Big Sur,dependent pup,F,pup
+68,1992,474,R4,dependent pup,M,pup
+69,1992,447,R3,dependent pup,M,pup
+70,1992,448,R3,dependent pup,M,pup
+71,1992,471.5,R4,juvenile,M,ELS\emaciation
+72,1992,426,Big Sur,dependent pup,M,pup
+73,1992,468,R3,aged adult,F,geriatric
+74,1992,487,R4,dependent pup,F,pup
+75,1992,507.5,R4,dependent pup,M,pup
+76,1992,206,R1,adult,M,trauma
+77,1992,248,R2,dependent pup,F,pup
+78,1993,426.5,Big Sur,dependent pup,M,pup
+79,1993,469.5,R3,aged adult,F,geriatric
+80,1993,515.5,R4,juvenile,M,neurological disease
+81,1993,202.5,R1,aged adult,F,geriatric
+82,1993,458,R3,dependent pup,F,pup
+83,1993,201.5,R1,aged adult,M,geriatric
+84,1993,462,R3,dependent pup,M,pup
+85,1993,494,R4,dependent pup,F,pup
+86,1993,457,R3,dependent pup,M,pup
+87,1993,520,R4,adult,F,neurological disease
+88,1993,202.5,R1,aged adult,M,geriatric
+89,1993,471.5,R4,dependent pup,F,pup
+90,1993,568.5,R5,juvenile,M,shark bite
+91,1993,457,R3,dependent pup,M,pup
+92,1993,505.5,R4,subadult,M,trauma
+93,1993,530,R4,dependent pup,M,pup
+94,1994,472,R4,dependent pup,M,pup
+95,1994,246.5,R2,dependent pup,M,pup
+96,1994,289.5,Big Sur,dependent pup,M,pup
+97,1994,472.5,R4,dependent pup,F,pup
+98,1994,446,R3,dependent pup,F,pup
+99,1994,474,R4,dependent pup,F,pup
+100,1994,246.5,R2,adult,M,trauma
+101,1994,500,R4,dependent pup,M,pup
+102,1994,471,R3,juvenile,F,trauma
+103,1994,472.5,R4,dependent pup,M,pup
+104,1995,246.5,R2,juvenile,M,trauma
+105,1995,464.5,R3,dependent pup,F,pup
+106,1995,468.5,R3,dependent pup,M,pup
+107,1995,471,R3,dependent pup,F,pup
+108,1995,471.5,R4,adult,F,neurological disease
+109,1995,456,R3,aged adult,F,ELS\emaciation
+110,1995,235.5,R2,dependent pup,M,pup
+111,1995,468.5,R3,dependent pup,F,pup
+112,1995,446,R3,dependent pup,M,pup
+113,1995,438,R3,dependent pup,F,pup
+114,1995,474,R4,dependent pup,F,pup
+115,1996,526.5,R4,dependent pup,M,pup
+116,1996,468.5,R3,adult,F,trauma
+117,1996,193.5,R1,dependent pup,F,pup
+118,1996,256,R2,dependent pup,M,pup
+119,1996,523.5,R4,dependent pup,F,pup
+120,1996,486.5,R4,dependent pup,F,pup
+121,1996,250,R2,dependent pup,M,pup
+122,1996,473.5,R4,adult,M,other
+123,1997,511,R4,subadult,M,neurological disease
+124,1997,256.5,R2,dependent pup,F,pup
+125,1997,500,R4,dependent pup,F,pup
+126,1997,440.5,R3,dependent pup,M,pup
+127,1997,436,R3,dependent pup,F,pup
+128,1997,445,R3,dependent pup,M,pup
+129,1997,500,R4,dependent pup,M,pup
+130,1997,448,R3,dependent pup,F,pup
+131,1997,499.5,R4,dependent pup,M,pup
+132,1997,500,R4,dependent pup,F,pup
+133,1997,474,R4,dependent pup,F,pup
+134,1997,471.5,R4,subadult,F,neurological disease
+135,1997,520,R4,juvenile,F,shark bite
+136,1997,499.5,R4,adult,M,trauma
+137,1998,471.5,R4,adult,M,trauma
+138,1998,541.5,R5,dependent pup,F,pup
+139,1998,295,Big Sur,dependent pup,F,pup
+140,1998,457,R3,dependent pup,F,pup
+141,1998,299,Big Sur,dependent pup,F,pup
+142,1998,593,R5,adult,F,shark bite
+143,1998,448.5,R3,dependent pup,M,pup
+144,1998,449,R3,dependent pup,M,pup
+145,1998,211,R1,dependent pup,M,pup
+146,1998,471.5,R4,aged adult,F,geriatric
+147,1998,283,Big Sur,dependent pup,M,pup
+148,1998,462.5,R3,dependent pup,F,pup
+149,1998,521.5,R4,aged adult,M,trauma
+150,1998,516,R4,adult,M,neurological disease
+151,1998,248.5,R2,subadult,F,neurological disease
+152,1998,257,R2,dependent pup,F,pup
+153,1998,530,R4,dependent pup,F,pup
+154,1998,466.5,R3,adult,F,ELS\emaciation
+155,1998,468,R3,adult,F,ELS\emaciation
+156,1998,506,R4,dependent pup,M,pup
+157,1998,471,R3,dependent pup,M,pup
+158,1998,465.5,R3,dependent pup,M,pup
+159,1998,458.5,R3,dependent pup,F,pup
+160,1999,470.5,R3,aged adult,M,geriatric
+161,1999,459.5,R3,dependent pup,M,pup
+162,1999,256.5,R2,dependent pup,M,pup
+163,1999,466.5,R3,dependent pup,M,pup
+164,1999,254,R2,dependent pup,F,pup
+165,1999,577.5,R5,dependent pup,F,pup
+166,1999,472,R4,dependent pup,F,pup
+167,1999,473.5,R4,juvenile,F,other
+168,1999,524,R4,juvenile,F,shark bite
+169,1999,512.5,R4,dependent pup,F,pup
+170,1999,462.5,R3,subadult,M,other
+171,1999,531,R5,juvenile,M,neurological disease
+172,1999,463,R3,adult,F,ELS\emaciation
+173,1999,523,R4,adult,F,shark bite
+174,2000,528,R4,adult,F,neurological disease
+175,2000,256,R2,dependent pup,M,pup
+176,2000,444,R3,juvenile,F,shark bite
+177,2000,530,R4,adult,M,trauma
+178,2000,500,R4,juvenile,M,neurological disease
+179,2000,427,Big Sur,dependent pup,M,pup
+180,2000,462,R3,dependent pup,M,pup
+181,2000,516,R4,dependent pup,F,pup
+182,2000,202.5,R1,juvenile,M,neurological disease
+183,2000,202,R1,adult,M,trauma
+184,2000,500,R4,adult,M,trauma
+185,2000,467,R3,adult,F,ELS\emaciation
+186,2000,246.5,R2,juvenile,F,neurological disease
+187,2001,470,R3,adult,F,trauma
+188,2001,205,R1,dependent pup,M,pup
+189,2001,295,Big Sur,dependent pup,F,pup
+190,2001,238.5,R2,juvenile,M,neurological disease
+191,2001,468.5,R3,juvenile,F,ELS\emaciation
+192,2001,528.5,R4,dependent pup,F,pup
+193,2001,246.5,R2,adult,M,neurological disease
+194,2001,500,R4,juvenile,M,other
+195,2001,451,R3,subadult,F,neurological disease
+196,2001,515.5,R4,subadult,F,neurological disease
+197,2001,0.5,R1,adult,M,neurological disease
+198,2001,200,R1,adult,F,neurological disease
+199,2001,283,Big Sur,dependent pup,M,pup
+200,2001,246.5,R2,adult,M,shark bite
+201,2001,246.5,R2,subadult,M,trauma
+202,2001,256.5,R2,subadult,M,neurological disease
+203,2001,195,R1,subadult,M,shark bite
+204,2001,474.5,R4,dependent pup,M,pup
+205,2001,461.5,R3,adult,F,ELS\emaciation
+206,2001,471.5,R4,dependent pup,F,pup
+207,2001,522,R4,subadult,F,neurological disease
+208,2001,531,R5,juvenile,F,trauma
+209,2001,472.5,R4,adult,M,shark bite
+210,2001,507,R4,subadult,M,neurological disease
+211,2002,500,R4,aged adult,M,trauma
+212,2002,457.5,R3,dependent pup,M,pup
+213,2002,472.5,R4,adult,F,other
+214,2002,404.5,Big Sur,dependent pup,M,pup
+215,2002,444,R3,adult,F,ELS\emaciation
+216,2002,471,R3,adult,F,ELS\emaciation
+217,2002,471,R3,aged adult,F,trauma
+218,2002,456,R3,aged adult,F,ELS\emaciation
+219,2002,295,Big Sur,subadult,F,neurological disease
+220,2002,204.5,R1,dependent pup,F,pup
+221,2002,534,R5,dependent pup,M,pup
+222,2002,468,R3,aged adult,F,geriatric
+223,2002,462.5,R3,adult,F,ELS\emaciation
+224,2002,197.5,R1,subadult,F,neurological disease
+225,2002,442.5,R3,adult,F,ELS\emaciation
+226,2003,472,R4,adult,F,trauma
+227,2003,471.5,R4,adult,F,other
+228,2003,466,R3,aged adult,F,ELS\emaciation
+229,2003,496.5,R4,adult,M,other
+230,2003,456,R3,dependent pup,M,pup
+231,2003,471.5,R4,adult,F,ELS\emaciation
+232,2003,351.5,Big Sur,dependent pup,M,pup
+233,2003,254.5,R2,dependent pup,M,pup
+234,2003,516.5,R4,subadult,F,shark bite
+235,2003,445,R3,adult,F,ELS\emaciation
+236,2003,612,R5,dependent pup,F,pup
+237,2003,500,R4,adult,M,trauma
+238,2003,469,R3,adult,F,ELS\emaciation
+239,2003,442.5,R3,adult,F,ELS\emaciation
+240,2003,468,R3,adult,M,other
+241,2003,205,R1,aged adult,M,geriatric
+242,2003,515.5,R4,adult,F,neurological disease
+243,2003,474.5,R4,adult,M,shark bite
+244,2003,544.5,R5,adult,F,shark bite
+245,2003,498.5,R4,aged adult,M,geriatric
+246,2003,472.5,R4,adult,F,trauma
+247,2003,256.5,R2,dependent pup,M,pup
+248,2003,211.5,R1,adult,F,ELS\emaciation
+249,2003,500,R4,adult,F,ELS\emaciation
+250,2003,521.5,R4,dependent pup,F,pup
+251,2003,200,R1,subadult,M,shark bite
+252,2003,295,Big Sur,dependent pup,F,pup
+253,2004,254.5,R2,dependent pup,M,pup
+254,2004,449,R3,adult,M,other
+255,2004,466.5,R3,adult,M,other
+256,2004,256,R2,dependent pup,M,pup
+257,2004,256,R2,dependent pup,F,pup
+258,2004,256,R2,adult,F,neurological disease
+259,2004,508.5,R4,adult,F,ELS\emaciation
+260,2004,514,R4,adult,F,other
+261,2004,448,R3,dependent pup,F,pup
+262,2004,246.5,R2,subadult,F,neurological disease
+263,2004,248,R2,subadult,M,neurological disease
+264,2004,255.5,R2,dependent pup,F,pup
+265,2004,249.5,R2,dependent pup,F,pup
+266,2004,250.5,R2,subadult,F,neurological disease
+267,2004,253,R2,subadult,M,neurological disease
+268,2004,256,R2,adult,F,neurological disease
+269,2004,250.5,R2,adult,M,neurological disease
+270,2004,198,R1,aged adult,M,neurological disease
+271,2004,471.5,R4,adult,F,ELS\emaciation
+272,2004,199,R1,dependent pup,M,pup
+273,2004,447.5,R3,juvenile,M,other
+274,2004,500,R4,adult,M,other
+275,2004,530,R4,aged adult,F,neurological disease
+276,2004,471,R3,adult,F,ELS\emaciation
+277,2004,194,R1,adult,M,other
+278,2004,520,R4,adult,F,other
+279,2004,473.5,R4,juvenile,M,other
+280,2004,472.5,R4,dependent pup,M,pup
+281,2004,445.5,R3,aged adult,F,geriatric
+282,2004,530,R4,aged adult,F,geriatric
+283,2004,530,R4,adult,M,trauma
+284,2004,524.5,R4,dependent pup,F,pup
+285,2004,246.5,R2,aged adult,M,trauma
+286,2004,447.5,R3,juvenile,F,other
+287,2004,476,R4,subadult,M,other
+288,2004,284.5,Big Sur,adult,F,ELS\emaciation
+289,2004,447,R3,aged adult,F,geriatric
+290,2004,469,R3,adult,F,ELS\emaciation
+291,2004,202,R1,dependent pup,M,pup
+292,2005,519,R4,dependent pup,M,pup
+293,2005,492.5,R4,adult,M,neurological disease
+294,2005,486,R4,adult,M,neurological disease
+295,2005,256.5,R2,dependent pup,M,pup
+296,2005,248,R2,juvenile,F,ELS\emaciation
+297,2005,533,R5,dependent pup,M,pup
+298,2005,200,R1,juvenile,M,neurological disease
+299,2005,254,R2,dependent pup,M,pup
+300,2005,528,R4,dependent pup,F,pup
+301,2005,295,Big Sur,dependent pup,M,pup
+302,2005,516,R4,dependent pup,M,pup
+303,2005,254,R2,dependent pup,F,pup
+304,2005,531,R5,juvenile,F,other
+305,2005,246.5,R2,juvenile,F,other
+306,2005,471,R3,aged adult,F,geriatric
+307,2005,474.5,R4,juvenile,M,trauma
+308,2005,256.5,R2,adult,F,ELS\emaciation
+309,2005,499,R4,adult,M,shark bite
+310,2005,473.5,R4,juvenile,M,other
+311,2005,249.5,R2,dependent pup,F,pup
+312,2005,546.5,R5,adult,M,shark bite
+313,2005,514.5,R4,dependent pup,F,pup
+314,2005,254,R2,dependent pup,F,pup
+315,2005,476.5,R4,adult,M,shark bite
+316,2005,447.5,R3,adult,F,ELS\emaciation
+317,2005,246.5,R2,adult,M,neurological disease
+318,2005,523.5,R4,dependent pup,M,pup
+319,2005,298.5,Big Sur,dependent pup,F,pup
+320,2005,463,R3,aged adult,F,geriatric
+321,2005,253.5,R2,dependent pup,M,pup
+322,2006,531.5,R5,juvenile,F,neurological disease
+323,2006,487.5,R4,dependent pup,M,pup
+324,2006,471.5,R4,dependent pup,M,pup
+325,2006,514.5,R4,juvenile,F,other
+326,2006,257,R2,dependent pup,F,pup
+327,2006,476,R4,dependent pup,M,pup
+328,2006,473.5,R4,adult,F,ELS\emaciation
+329,2006,471.5,R4,adult,F,ELS\emaciation
+330,2006,471.5,R4,juvenile,M,other
+331,2006,445.5,R3,subadult,F,other
+332,2006,499,R4,aged adult,M,geriatric
+333,2006,500,R4,adult,M,neurological disease
+334,2006,499,R4,adult,M,other
+335,2008,494,R4,juvenile,F,other
+336,2006,256,R2,juvenile,F,neurological disease
+337,2006,476,R4,dependent pup,F,pup
+338,2006,531.5,R5,aged adult,F,ELS\emaciation
+339,2006,448,R3,juvenile,F,other
+340,2006,475,R4,adult,M,neurological disease
+341,2006,469,R3,adult,F,ELS\emaciation
+342,2006,246.5,R2,juvenile,F,other
+343,2006,246.5,R2,adult,M,shark bite
+344,2006,499.5,R4,adult,M,shark bite
+345,2006,505.5,R4,dependent pup,F,pup
+346,2006,461,R3,dependent pup,F,pup
+347,2006,506,R4,aged adult,M,geriatric
+348,2006,198,R1,dependent pup,F,pup
+349,2006,211,R1,dependent pup,M,pup
+350,2006,499,R4,aged adult,M,geriatric
+351,2006,250.5,R2,adult,M,neurological disease
+352,2006,470,R3,dependent pup,F,pup
+353,2006,500,R4,adult,M,neurological disease
+354,2006,196,R1,dependent pup,M,pup
+355,2006,534.5,R5,dependent pup,M,pup
+356,2007,66.5,R1,adult,M,neurological disease
+357,2007,530,R4,juvenile,F,neurological disease
+358,2007,530,R4,adult,F,neurological disease
+359,2007,500,R4,subadult,M,trauma
+360,2007,515.5,R4,dependent pup,M,pup
+361,2007,530,R4,juvenile,M,neurological disease
+362,2007,443,R3,juvenile,F,ELS\emaciation
+363,2007,202.5,R1,dependent pup,M,pup
+364,2007,531.5,R5,adult,F,neurological disease
+365,2007,254,R2,juvenile,M,neurological disease
+366,2007,202,R1,dependent pup,M,pup
+367,2007,463.5,R3,aged adult,M,geriatric
+368,2007,500,R4,juvenile,F,ELS\emaciation
+369,2007,199,R1,adult,M,neurological disease
+370,2007,503,R4,adult,M,other
+371,2007,241,R2,juvenile,F,ELS\emaciation
+372,2007,500,R4,subadult,M,neurological disease
+373,2007,246.5,R2,subadult,M,other
+374,2007,248,R2,aged adult,F,geriatric
+375,2007,531.5,R5,aged adult,F,other
+376,2007,475,R4,juvenile,F,other
+377,2007,470.5,R3,aged adult,F,geriatric
+378,2007,112,R1,dependent pup,F,pup
+379,2007,519,R4,subadult,M,shark bite
+380,2007,486.5,R4,subadult,M,other
+381,2007,529.5,R4,juvenile,M,neurological disease
+382,2007,462,R3,juvenile,F,trauma
+383,2007,252.5,R2,aged adult,M,other
+384,2007,486.5,R4,juvenile,F,other
+385,2007,498.5,R4,subadult,M,neurological disease
+386,2007,622,R5,aged adult,M,shark bite
+387,2007,470.5,R3,dependent pup,M,pup
+388,2007,471.5,R4,juvenile,M,other
+389,2007,474.5,R4,juvenile,M,other
+390,2007,512,R4,dependent pup,F,pup
+391,2007,484,R4,subadult,M,trauma
+392,2007,471.5,R4,adult,F,ELS\emaciation
+393,2007,252.5,R2,dependent pup,M,pup
+394,2007,500,R4,aged adult,M,geriatric
+395,2008,246.5,R2,juvenile,F,other
+396,2008,308,Big Sur,dependent pup,M,pup
+397,2008,471.5,R4,adult,F,ELS\emaciation
+398,2008,621.5,R5,subadult,M,shark bite
+399,2008,461,R3,aged adult,M,geriatric
+400,2008,243,R2,subadult,F,neurological disease
+401,2008,243,R2,subadult,M,neurological disease
+402,2008,246.5,R2,juvenile,M,neurological disease
+403,2008,520,R4,juvenile,M,neurological disease
+404,2008,426.5,Big Sur,dependent pup,F,pup
+405,2008,500,R4,aged adult,M,geriatric
+406,2008,500,R4,adult,F,neurological disease
+407,2008,495,R4,adult,M,neurological disease
+408,2008,399,Big Sur,subadult,M,other
+409,2008,246.5,R2,juvenile,M,neurological disease
+410,2008,248,R2,aged adult,M,geriatric
+411,2008,501,R4,subadult,F,neurological disease
+412,2008,456,R3,dependent pup,M,pup
+413,2008,471.5,R4,adult,F,trauma
+414,2008,254,R2,juvenile,F,other
+415,2008,200,R1,dependent pup,M,pup
+416,2008,524.5,R4,adult,F,trauma
+417,2008,193.5,R1,adult,M,shark bite
+418,2008,517,R4,adult,F,shark bite
+419,2008,476,R4,adult,F,ELS\emaciation
+420,2008,473,R4,adult,F,ELS\emaciation
+421,2008,254,R2,dependent pup,F,pup
+422,2008,468,R3,adult,F,ELS\emaciation
+423,2008,523.5,R4,dependent pup,M,pup
+424,2008,202.5,R1,dependent pup,M,pup
+425,2008,486.5,R4,dependent pup,M,pup
+426,2009,248,R2,dependent pup,M,pup
+427,2009,508,R4,subadult,M,neurological disease
+428,2009,499.5,R4,adult,F,other
+429,2009,458,R3,dependent pup,F,pup
+430,2009,446.5,R3,dependent pup,M,pup
+431,2009,248,R2,dependent pup,M,pup
+432,2009,206,R1,dependent pup,F,pup
+433,2009,512.5,R4,subadult,F,trauma
+434,2009,507,R4,subadult,M,neurological disease
+435,2009,445,R3,dependent pup,M,pup
+436,2009,214,R1,adult,F,other
+437,2009,517.5,R4,dependent pup,F,pup
+438,2009,515.5,R4,adult,F,shark bite
+439,2009,193,R1,adult,F,other
+440,2009,254,R2,dependent pup,M,pup
+441,2009,486.5,R4,aged adult,M,geriatric
+442,2009,201.5,R1,aged adult,F,geriatric
+443,2009,522.5,R4,dependent pup,F,pup
+444,2009,471.5,R4,subadult,M,trauma
+445,2009,191,R1,juvenile,M,shark bite
+446,2009,455.5,R3,dependent pup,F,pup
+447,2009,200.5,R1,juvenile,M,shark bite
+448,2009,211.5,R1,dependent pup,F,pup
+449,2009,464,R3,adult,F,other
+450,2009,507.5,R4,adult,M,other
+451,2010,246.5,R2,dependent pup,F,pup
+452,2010,254,R2,dependent pup,M,pup
+453,2010,512.5,R4,dependent pup,M,pup
+454,2010,500,R4,aged adult,M,geriatric
+455,2010,500,R4,aged adult,M,shark bite
+456,2010,472.5,R4,dependent pup,M,pup
+457,2010,500,R4,adult,M,neurological disease
+458,2010,499.5,R4,aged adult,M,geriatric
+459,2010,465.5,R3,dependent pup,F,pup
+460,2010,197.5,R1,dependent pup,F,pup
+461,2010,340.5,Big Sur,dependent pup,M,pup
+462,2010,202,R1,dependent pup,F,pup
+463,2010,500,R4,adult,M,trauma
+464,2010,471.5,R4,juvenile,F,ELS\emaciation
+465,2010,202,R1,dependent pup,M,pup
+466,2010,473,R4,dependent pup,F,pup
+467,2010,520,R4,dependent pup,M,pup
+468,2010,474.5,R4,juvenile,F,other
+469,2010,475.5,R4,dependent pup,F,pup
+470,2010,246.5,R2,dependent pup,F,pup
+471,2010,295,Big Sur,dependent pup,M,pup
+472,2010,255,R2,dependent pup,F,pup
+473,2010,249.5,R2,dependent pup,F,pup
+474,2010,251,R2,aged adult,M,geriatric
+475,2010,248,R2,adult,F,ELS\emaciation
+476,2010,475,R4,dependent pup,M,pup
+477,2010,284.5,Big Sur,aged adult,F,geriatric
+478,2010,500,R4,adult,M,shark bite
+479,2010,254.5,R2,dependent pup,F,pup
+480,2010,250.5,R2,adult,F,shark bite
+481,2010,526,R4,dependent pup,M,pup
+482,2010,526,R4,adult,F,shark bite
+483,2010,202.5,R1,subadult,F,shark bite
+484,2010,471.5,R4,subadult,F,shark bite
+485,2010,546.5,R5,dependent pup,M,pup
+486,2010,248,R2,subadult,F,shark bite
+487,2010,530,R4,dependent pup,F,pup
+488,2010,500,R4,adult,M,shark bite
+489,2010,463.5,R3,adult,F,ELS\emaciation
+490,2010,242.5,R2,adult,M,neurological disease
+491,2010,298.5,Big Sur,dependent pup,F,pup
+492,2010,257,R2,adult,F,shark bite
+493,2011,249,R2,dependent pup,M,pup
+494,2011,519,R4,juvenile,F,neurological disease
+495,2011,473.5,R4,dependent pup,M,shark bite
+496,2011,464.5,R3,adult,F,ELS\emaciation
+497,2011,500,R4,adult,M,shark bite
+498,2011,496.5,R4,subadult,M,neurological disease
+499,2011,202,R1,dependent pup,M,pup
+500,2011,191.5,R1,dependent pup,F,pup
+501,2011,473,R4,dependent pup,F,pup
+502,2011,254,R2,adult,F,shark bite
+503,2011,448,R3,dependent pup,F,pup
+504,2011,546,R5,adult,F,neurological disease
+505,2011,456,R3,juvenile,F,ELS\emaciation
+506,2011,255.5,R2,aged adult,M,neurological disease
+507,2011,246.5,R2,subadult,M,other
+508,2011,524,R4,aged adult,M,geriatric
+509,2011,620,R5,adult,M,shark bite
+510,2011,248,R2,dependent pup,M,pup
+511,2011,506.5,R4,adult,M,shark bite
+512,2011,510.5,R4,adult,M,other
+513,2011,523,R4,subadult,M,neurological disease
+514,2011,247.5,R2,adult,F,neurological disease
+515,2011,203,R1,dependent pup,M,pup
+516,2011,255.5,R2,dependent pup,F,pup
+517,2011,518.5,R4,adult,M,neurological disease
+518,2011,523,R4,subadult,F,neurological disease
+519,2011,530,R4,aged adult,M,geriatric
+520,2011,500.5,R4,aged adult,M,geriatric
+521,2011,255.5,R2,dependent pup,F,pup
+522,2011,520.5,R4,adult,F,ELS\emaciation
+523,2011,299,Big Sur,aged adult,F,geriatric
+524,2011,486,R4,aged adult,M,geriatric
+525,2011,200.5,R1,subadult,F,shark bite
+526,2011,202,R1,dependent pup,M,pup
+527,2011,500,R4,aged adult,M,neurological disease
+528,2011,200.5,R1,adult,F,shark bite
+529,2011,200.5,R1,dependent pup,M,shark bite
+530,2011,295,Big Sur,dependent pup,M,pup
+531,2011,246.5,R2,adult,M,neurological disease
+532,2011,255.5,R2,adult,F,ELS\emaciation
+533,2011,236.5,R2,adult,M,neurological disease
+534,2011,255,R2,adult,F,ELS\emaciation
+535,2011,255,R2,dependent pup,F,pup
+536,2011,201,R1,subadult,M,shark bite
+537,2011,509,R4,adult,M,neurological disease
+538,2011,568,R5,dependent pup,M,pup
+539,2011,190,R1,aged adult,M,shark bite
+540,2011,194,R1,adult,M,shark bite
+541,2011,238.5,R2,dependent pup,M,pup
+542,2011,522.5,R4,adult,F,shark bite
+543,2011,476,R4,adult,F,trauma
+544,2011,246.5,R2,subadult,M,trauma
+545,2011,530,R4,aged adult,M,geriatric
+546,2011,471.5,R4,adult,F,neurological disease
+547,2011,253.5,R2,dependent pup,M,pup
+548,2011,524.5,R4,dependent pup,M,pup
+549,2011,471.5,R4,subadult,M,trauma
+550,2011,253,R2,dependent pup,F,pup
+551,2011,213,R1,subadult,M,neurological disease
+552,2011,551.5,R5,dependent pup,F,pup
+553,2011,255.5,R2,dependent pup,F,pup
+554,2011,499.5,R4,adult,M,shark bite
+555,2011,467.5,R3,dependent pup,F,pup
+556,2012,253.5,R2,dependent pup,M,pup
+557,2012,250.5,R2,juvenile,F,shark bite
+558,2012,457.5,R3,dependent pup,F,pup
+559,2012,255,R2,adult,F,shark bite
+560,2012,500,R4,aged adult,M,geriatric
+561,2012,554,R5,subadult,F,shark bite
+562,2012,254.5,R2,dependent pup,M,pup
+563,2012,471.5,R4,adult,M,shark bite
+564,2012,345.5,Big Sur,dependent pup,M,pup
+565,2012,471.5,R4,adult,F,ELS\emaciation
+566,2012,474,R4,dependent pup,F,pup
+567,2012,196.5,R1,subadult,F,neurological disease
+568,2012,456,R3,juvenile,F,ELS\emaciation
+569,2012,500,R4,aged adult,M,shark bite
+570,2012,253,R2,dependent pup,F,pup
+571,2012,202,R1,dependent pup,M,pup
+572,2012,200,R1,dependent pup,F,pup
+573,2012,253.5,R2,dependent pup,M,pup
+574,2012,279.5,Big Sur,adult,F,neurological disease
+575,2012,202.5,R1,dependent pup,F,pup
+576,2012,519,R4,adult,M,neurological disease
+577,2012,193,R1,dependent pup,M,pup
+578,2012,251.5,R2,adult,M,shark bite
+579,2012,495.5,R4,subadult,F,shark bite
+580,2012,457.5,R3,juvenile,F,other
+581,2012,520,R4,aged adult,M,geriatric
+582,2012,202,R1,juvenile,M,neurological disease
+583,2012,257,R2,dependent pup,F,pup
+584,2012,242,R2,subadult,M,shark bite
+585,2012,178.5,R1,adult,M,shark bite
+586,2012,471.5,R4,adult,F,ELS\emaciation
+587,2012,499.5,R4,adult,M,shark bite
+588,2012,473.5,R4,dependent pup,F,pup
+589,2012,531,R5,adult,M,neurological disease
+590,2012,199,R1,adult,M,neurological disease
+591,2012,444.5,R3,adult,F,ELS\emaciation
+592,2012,500.5,R4,dependent pup,F,pup
+593,2012,519.5,R4,adult,M,shark bite
+594,2012,447,R3,adult,F,ELS\emaciation
+595,2012,283.5,Big Sur,dependent pup,F,pup
+596,2012,254.5,R2,juvenile,F,shark bite
+597,2012,226.5,R1,subadult,M,other
+598,2012,216.5,R1,adult,F,ELS\emaciation
+599,2012,448.5,R3,adult,F,ELS\emaciation
+600,2012,500,R4,aged adult,M,geriatric
+601,2012,250.5,R2,subadult,M,shark bite
+602,2012,500,R4,adult,M,neurological disease
+603,2012,500,R4,subadult,M,other
+604,2012,203,R1,dependent pup,F,pup
+605,2012,246.5,R2,subadult,M,shark bite
+606,2012,226.5,R1,subadult,F,shark bite
+607,2012,561.5,R5,aged adult,F,shark bite
+608,2012,250,R2,adult,M,shark bite
+609,2013,497.5,R4,aged adult,M,geriatric
+610,2013,246.5,R2,adult,M,trauma
+611,2013,520,R4,juvenile,M,neurological disease
+612,2013,520,R4,aged adult,M,geriatric
+613,2013,500,R4,subadult,M,neurological disease
+614,2013,543.5,R5,dependent pup,M,pup
+615,2013,248.5,R2,dependent pup,M,pup
+616,2013,198,R1,adult,M,neurological disease
+617,2013,525,R4,subadult,M,neurological disease
+618,2013,500,R4,adult,M,shark bite
+619,2013,439.5,R3,aged adult,F,geriatric
+620,2013,201.5,R1,subadult,F,neurological disease
+621,2013,500,R4,adult,M,shark bite
+622,2013,520,R4,dependent pup,F,pup
+623,2013,200,R1,dependent pup,F,pup
+624,2013,246.5,R2,dependent pup,F,pup
+625,2013,197.5,R1,subadult,F,other
+626,2013,500,R4,adult,M,other
+627,2013,250,R2,juvenile,F,ELS\emaciation
+628,2013,205,R1,adult,F,ELS\emaciation
+629,2013,530,R4,adult,F,ELS\emaciation
+630,2013,251.5,R2,dependent pup,M,pup
+631,2013,204.5,R1,subadult,F,trauma
+632,2013,246.5,R2,dependent pup,M,pup
+633,2013,500,R4,aged adult,M,other
+634,2013,256,R2,dependent pup,F,pup
+635,2013,438.5,R3,adult,F,ELS\emaciation
+636,2013,295,Big Sur,dependent pup,M,pup
+637,2013,269.5,Big Sur,dependent pup,M,pup
+638,2013,500,R4,adult,M,shark bite
+639,2013,519.5,R4,aged adult,M,geriatric
+640,2013,500,R4,adult,M,other
+641,2013,500,R4,aged adult,M,shark bite
+642,2013,213.5,R1,adult,F,other
+643,2013,471.5,R4,subadult,F,other
+644,2013,306,Big Sur,adult,M,shark bite
+645,2013,294.5,Big Sur,dependent pup,F,pup
+646,2013,246.5,R2,dependent pup,M,pup
+647,2013,111,R1,dependent pup,M,pup
+648,2013,500,R4,aged adult,M,shark bite
+649,2013,499.5,R4,adult,M,shark bite
+650,2014,206,R1,dependent pup,F,pup
+651,2014,251.5,R2,juvenile,M,other
+652,2014,253,R2,dependent pup,F,pup
+653,2014,195.5,R1,adult,M,shark bite
+654,2014,570,R5,subadult,M,trauma
+655,2014,466.5,R3,dependent pup,F,pup
+656,2014,405.5,Big Sur,adult,M,other
+657,2014,530,R4,adult,M,trauma
+658,2014,213,R1,adult,F,neurological disease
+659,2014,564.5,R5,adult,F,ELS\emaciation
+660,2014,464,R3,dependent pup,M,pup
+661,2014,499,R4,aged adult,M,geriatric
+662,2014,499.5,R4,adult,M,other
+663,2014,456,R3,juvenile,M,ELS\emaciation
+664,2014,499.5,R4,adult,M,trauma
+665,2014,256,R2,dependent pup,M,pup
+666,2014,471.5,R4,adult,F,other
+667,2014,205.5,R1,dependent pup,F,pup
+668,2014,202,R1,subadult,F,shark bite
+669,2014,521.5,R4,adult,F,ELS\emaciation
+670,2014,295,Big Sur,dependent pup,M,pup
+671,2014,255,R2,subadult,F,shark bite
+672,2014,251.5,R2,subadult,F,other
+673,2014,470,R3,adult,F,ELS\emaciation
+674,2014,462,R3,dependent pup,M,pup
+675,2014,246.5,R2,juvenile,M,shark bite
+676,2014,256.5,R2,adult,F,trauma
+677,2014,253,R2,adult,F,shark bite
+678,2014,112.5,R1,dependent pup,F,pup
+679,2014,499,R4,adult,M,shark bite
+680,2014,208,R1,dependent pup,F,pup
+681,2014,567,R5,dependent pup,F,pup
+682,2014,200,R1,dependent pup,M,pup
+683,2014,499.5,R4,adult,M,shark bite
+684,2014,464.5,R3,adult,M,shark bite
+685,2014,200.5,R1,adult,M,shark bite
+686,2014,536.5,R5,dependent pup,F,pup
+687,2014,499.5,R4,dependent pup,M,pup
+688,2014,256,R2,dependent pup,M,pup
+689,2014,444,R3,aged adult,F,geriatric
+690,2014,195,R1,dependent pup,F,pup
+691,2014,200.5,R1,dependent pup,M,pup
+692,2015,551.5,R5,dependent pup,F,pup
+693,2015,522.5,R4,adult,M,shark bite
+694,2015,521.5,R4,aged adult,F,geriatric
+695,2015,520,R4,subadult,F,shark bite
+696,2015,513,R4,adult,F,other
+697,2015,499.5,R4,adult,M,trauma
+698,2015,499.5,R4,aged adult,M,geriatric
+699,2015,499.5,R4,adult,M,neurological disease
+700,2015,499.5,R4,adult,M,shark bite
+701,2015,499.5,R4,aged adult,M,shark bite
+702,2015,499.5,R4,adult,M,trauma
+703,2015,487,R4,adult,F,neurological disease
+704,2015,475,R4,dependent pup,F,pup
+705,2015,473.5,R4,adult,F,ELS\emaciation
+706,2015,472,R4,juvenile,F,trauma
+707,2015,470,R3,adult,M,shark bite
+708,2015,462,R3,aged adult,F,geriatric
+709,2015,461,R3,aged adult,M,geriatric
+710,2015,457,R3,adult,M,shark bite
+711,2015,456.5,R3,juvenile,M,ELS\emaciation
+712,2015,443,R3,dependent pup,M,pup
+713,2015,292.5,Big Sur,dependent pup,M,pup
+714,2015,292,Big Sur,dependent pup,F,pup
+715,2015,257,R2,aged adult,F,geriatric
+716,2015,250.5,R2,dependent pup,F,pup
+717,2015,248,R2,dependent pup,F,pup
+718,2015,246,R2,juvenile,F,other
+719,2015,203,R1,adult,F,ELS\emaciation
+720,2015,201,R1,dependent pup,F,pup
+721,2015,200,R1,dependent pup,F,pup
+722,2015,200,R1,dependent pup,F,pup
+723,2015,199,R1,dependent pup,F,pup
+724,2015,192.5,R1,dependent pup,F,pup
+725,2015,198.5,R1,adult,M,shark bite
