@@ -1,0 +1,1225 @@
+StateFIPS,State,Year,Value,Data Comment,,Pollutant
+01,Alabama,2005,0.83,,,Pollutant: Benzene
+01,Alabama,2005,2.56,,,Pollutant: Formaldehyde
+01,Alabama,2005,2.71,,,Pollutant: Acetaldehyde
+01,Alabama,2005,0.61,,,Pollutant: Carbon tetrachloride
+01,Alabama,2005,0.04,,,"Pollutant: 1,3-butadiene"
+01,Alabama,2011,0.49,,,Pollutant: Benzene
+01,Alabama,2011,2.46,,,Pollutant: Formaldehyde
+01,Alabama,2011,3.16,,,Pollutant: Acetaldehyde
+01,Alabama,2011,0.55,,,Pollutant: Carbon tetrachloride
+01,Alabama,2011,0.04,,,"Pollutant: 1,3-butadiene"
+01,Alabama,2014,0.35,,,Pollutant: Benzene
+01,Alabama,2014,2.19,,,Pollutant: Formaldehyde
+01,Alabama,2014,2.02,,,Pollutant: Acetaldehyde
+01,Alabama,2014,0.53,,,Pollutant: Carbon tetrachloride
+01,Alabama,2014,0.03,,,"Pollutant: 1,3-butadiene"
+01,Alabama,2017,0.18,,,Pollutant: Benzene
+01,Alabama,2017,1.75,,,Pollutant: Formaldehyde
+01,Alabama,2017,1.42,,,Pollutant: Acetaldehyde
+01,Alabama,2017,0.5,,,Pollutant: Carbon tetrachloride
+01,Alabama,2018,0.18,,,Pollutant: Benzene
+01,Alabama,2018,1.65,,,Pollutant: Formaldehyde
+01,Alabama,2018,1.36,,,Pollutant: Acetaldehyde
+01,Alabama,2018,0.37,,,Pollutant: Carbon tetrachloride
+01,Alabama,2018,0.01,,,"Pollutant: 1,3-butadiene"
+02,Alaska,2005,1.07,,,Pollutant: Benzene
+02,Alaska,2005,1.13,,,Pollutant: Formaldehyde
+02,Alaska,2005,1.13,,,Pollutant: Acetaldehyde
+02,Alaska,2005,0.61,,,Pollutant: Carbon tetrachloride
+02,Alaska,2005,0.04,,,"Pollutant: 1,3-butadiene"
+02,Alaska,2011,0.68,,,Pollutant: Benzene
+02,Alaska,2011,0.31,,,Pollutant: Formaldehyde
+02,Alaska,2011,0.18,,,Pollutant: Acetaldehyde
+02,Alaska,2011,0.55,,,Pollutant: Carbon tetrachloride
+02,Alaska,2011,0.08,,,"Pollutant: 1,3-butadiene"
+02,Alaska,2014,0.32,,,Pollutant: Benzene
+02,Alaska,2014,0.25,,,Pollutant: Formaldehyde
+02,Alaska,2014,0.29,,,Pollutant: Acetaldehyde
+02,Alaska,2014,0.53,,,Pollutant: Carbon tetrachloride
+02,Alaska,2014,0.03,,,"Pollutant: 1,3-butadiene"
+02,Alaska,2017,0.14,,,Pollutant: Benzene
+02,Alaska,2017,0.15,,,Pollutant: Formaldehyde
+02,Alaska,2017,0.22,,,Pollutant: Acetaldehyde
+02,Alaska,2017,0.53,,,Pollutant: Carbon tetrachloride
+02,Alaska,2018,0.14,,,Pollutant: Benzene
+02,Alaska,2018,0.28,,,Pollutant: Formaldehyde
+02,Alaska,2018,0.32,,,Pollutant: Acetaldehyde
+02,Alaska,2018,0.37,,,Pollutant: Carbon tetrachloride
+02,Alaska,2018,0,,,"Pollutant: 1,3-butadiene"
+04,Arizona,2005,1.08,,,Pollutant: Benzene
+04,Arizona,2005,2.73,,,Pollutant: Formaldehyde
+04,Arizona,2005,2.7,,,Pollutant: Acetaldehyde
+04,Arizona,2005,0.61,,,Pollutant: Carbon tetrachloride
+04,Arizona,2005,0.09,,,"Pollutant: 1,3-butadiene"
+04,Arizona,2011,0.43,,,Pollutant: Benzene
+04,Arizona,2011,2.12,,,Pollutant: Formaldehyde
+04,Arizona,2011,2.7,,,Pollutant: Acetaldehyde
+04,Arizona,2011,0.55,,,Pollutant: Carbon tetrachloride
+04,Arizona,2011,0.04,,,"Pollutant: 1,3-butadiene"
+04,Arizona,2014,0.26,,,Pollutant: Benzene
+04,Arizona,2014,1.78,,,Pollutant: Formaldehyde
+04,Arizona,2014,1.59,,,Pollutant: Acetaldehyde
+04,Arizona,2014,0.49,,,Pollutant: Carbon tetrachloride
+04,Arizona,2014,0.02,,,"Pollutant: 1,3-butadiene"
+04,Arizona,2017,0.07,,,Pollutant: Benzene
+04,Arizona,2017,0.82,,,Pollutant: Formaldehyde
+04,Arizona,2017,0.51,,,Pollutant: Acetaldehyde
+04,Arizona,2017,0.44,,,Pollutant: Carbon tetrachloride
+04,Arizona,2018,0.06,,,Pollutant: Benzene
+04,Arizona,2018,0.72,,,Pollutant: Formaldehyde
+04,Arizona,2018,0.43,,,Pollutant: Acetaldehyde
+04,Arizona,2018,0.32,,,Pollutant: Carbon tetrachloride
+04,Arizona,2018,0,,,"Pollutant: 1,3-butadiene"
+05,Arkansas,2005,0.56,,,Pollutant: Benzene
+05,Arkansas,2005,2.29,,,Pollutant: Formaldehyde
+05,Arkansas,2005,2.48,,,Pollutant: Acetaldehyde
+05,Arkansas,2005,0.61,,,Pollutant: Carbon tetrachloride
+05,Arkansas,2005,0.03,,,"Pollutant: 1,3-butadiene"
+05,Arkansas,2011,0.46,,,Pollutant: Benzene
+05,Arkansas,2011,2.41,,,Pollutant: Formaldehyde
+05,Arkansas,2011,3.11,,,Pollutant: Acetaldehyde
+05,Arkansas,2011,0.55,,,Pollutant: Carbon tetrachloride
+05,Arkansas,2011,0.03,,,"Pollutant: 1,3-butadiene"
+05,Arkansas,2014,0.26,,,Pollutant: Benzene
+05,Arkansas,2014,1.85,,,Pollutant: Formaldehyde
+05,Arkansas,2014,1.61,,,Pollutant: Acetaldehyde
+05,Arkansas,2014,0.53,,,Pollutant: Carbon tetrachloride
+05,Arkansas,2014,0.02,,,"Pollutant: 1,3-butadiene"
+05,Arkansas,2017,0.18,,,Pollutant: Benzene
+05,Arkansas,2017,1.69,,,Pollutant: Formaldehyde
+05,Arkansas,2017,1.31,,,Pollutant: Acetaldehyde
+05,Arkansas,2017,0.51,,,Pollutant: Carbon tetrachloride
+05,Arkansas,2018,0.19,,,Pollutant: Benzene
+05,Arkansas,2018,1.51,,,Pollutant: Formaldehyde
+05,Arkansas,2018,1.18,,,Pollutant: Acetaldehyde
+05,Arkansas,2018,0.37,,,Pollutant: Carbon tetrachloride
+05,Arkansas,2018,0.01,,,"Pollutant: 1,3-butadiene"
+06,California,2005,1.25,,,Pollutant: Benzene
+06,California,2005,3.51,,,Pollutant: Formaldehyde
+06,California,2005,2.39,,,Pollutant: Acetaldehyde
+06,California,2005,0.61,,,Pollutant: Carbon tetrachloride
+06,California,2005,0.11,,,"Pollutant: 1,3-butadiene"
+06,California,2011,0.64,,,Pollutant: Benzene
+06,California,2011,1.78,,,Pollutant: Formaldehyde
+06,California,2011,1.67,,,Pollutant: Acetaldehyde
+06,California,2011,0.55,,,Pollutant: Carbon tetrachloride
+06,California,2011,0.06,,,"Pollutant: 1,3-butadiene"
+06,California,2014,0.35,,,Pollutant: Benzene
+06,California,2014,1.61,,,Pollutant: Formaldehyde
+06,California,2014,1.26,,,Pollutant: Acetaldehyde
+06,California,2014,0.52,,,Pollutant: Carbon tetrachloride
+06,California,2014,0.04,,,"Pollutant: 1,3-butadiene"
+06,California,2017,0.15,,,Pollutant: Benzene
+06,California,2017,1.26,,,Pollutant: Formaldehyde
+06,California,2017,0.96,,,Pollutant: Acetaldehyde
+06,California,2017,0.48,,,Pollutant: Carbon tetrachloride
+06,California,2018,0.15,,,Pollutant: Benzene
+06,California,2018,1.2,,,Pollutant: Formaldehyde
+06,California,2018,0.91,,,Pollutant: Acetaldehyde
+06,California,2018,0.35,,,Pollutant: Carbon tetrachloride
+06,California,2018,0.01,,,"Pollutant: 1,3-butadiene"
+08,Colorado,2005,1.5,,,Pollutant: Benzene
+08,Colorado,2005,1.54,,,Pollutant: Formaldehyde
+08,Colorado,2005,1.38,,,Pollutant: Acetaldehyde
+08,Colorado,2005,0.61,,,Pollutant: Carbon tetrachloride
+08,Colorado,2005,0.07,,,"Pollutant: 1,3-butadiene"
+08,Colorado,2011,0.87,,,Pollutant: Benzene
+08,Colorado,2011,1.27,,,Pollutant: Formaldehyde
+08,Colorado,2011,1.6,,,Pollutant: Acetaldehyde
+08,Colorado,2011,0.55,,,Pollutant: Carbon tetrachloride
+08,Colorado,2011,0.09,,,"Pollutant: 1,3-butadiene"
+08,Colorado,2014,0.37,,,Pollutant: Benzene
+08,Colorado,2014,0.88,,,Pollutant: Formaldehyde
+08,Colorado,2014,0.72,,,Pollutant: Acetaldehyde
+08,Colorado,2014,0.45,,,Pollutant: Carbon tetrachloride
+08,Colorado,2014,0.03,,,"Pollutant: 1,3-butadiene"
+08,Colorado,2017,0.1,,,Pollutant: Benzene
+08,Colorado,2017,0.6,,,Pollutant: Formaldehyde
+08,Colorado,2017,0.35,,,Pollutant: Acetaldehyde
+08,Colorado,2017,0.42,,,Pollutant: Carbon tetrachloride
+08,Colorado,2018,0.11,,,Pollutant: Benzene
+08,Colorado,2018,0.61,,,Pollutant: Formaldehyde
+08,Colorado,2018,0.34,,,Pollutant: Acetaldehyde
+08,Colorado,2018,0.31,,,Pollutant: Carbon tetrachloride
+08,Colorado,2018,0.01,,,"Pollutant: 1,3-butadiene"
+09,Connecticut,2005,1.2,,,Pollutant: Benzene
+09,Connecticut,2005,1.79,,,Pollutant: Formaldehyde
+09,Connecticut,2005,1.71,,,Pollutant: Acetaldehyde
+09,Connecticut,2005,0.61,,,Pollutant: Carbon tetrachloride
+09,Connecticut,2005,0.07,,,"Pollutant: 1,3-butadiene"
+09,Connecticut,2011,0.86,,,Pollutant: Benzene
+09,Connecticut,2011,1.34,,,Pollutant: Formaldehyde
+09,Connecticut,2011,1.53,,,Pollutant: Acetaldehyde
+09,Connecticut,2011,0.55,,,Pollutant: Carbon tetrachloride
+09,Connecticut,2011,0.08,,,"Pollutant: 1,3-butadiene"
+09,Connecticut,2014,0.47,,,Pollutant: Benzene
+09,Connecticut,2014,1,,,Pollutant: Formaldehyde
+09,Connecticut,2014,0.79,,,Pollutant: Acetaldehyde
+09,Connecticut,2014,0.55,,,Pollutant: Carbon tetrachloride
+09,Connecticut,2014,0.03,,,"Pollutant: 1,3-butadiene"
+09,Connecticut,2017,0.29,,,Pollutant: Benzene
+09,Connecticut,2017,0.99,,,Pollutant: Formaldehyde
+09,Connecticut,2017,0.77,,,Pollutant: Acetaldehyde
+09,Connecticut,2017,0.52,,,Pollutant: Carbon tetrachloride
+09,Connecticut,2018,0.28,,,Pollutant: Benzene
+09,Connecticut,2018,0.89,,,Pollutant: Formaldehyde
+09,Connecticut,2018,0.62,,,Pollutant: Acetaldehyde
+09,Connecticut,2018,0.38,,,Pollutant: Carbon tetrachloride
+09,Connecticut,2018,0.01,,,"Pollutant: 1,3-butadiene"
+10,Delaware,2005,0.63,,,Pollutant: Benzene
+10,Delaware,2005,1.83,,,Pollutant: Formaldehyde
+10,Delaware,2005,1.67,,,Pollutant: Acetaldehyde
+10,Delaware,2005,0.61,,,Pollutant: Carbon tetrachloride
+10,Delaware,2005,0.06,,,"Pollutant: 1,3-butadiene"
+10,Delaware,2011,0.69,,,Pollutant: Benzene
+10,Delaware,2011,1.38,,,Pollutant: Formaldehyde
+10,Delaware,2011,1.8,,,Pollutant: Acetaldehyde
+10,Delaware,2011,0.55,,,Pollutant: Carbon tetrachloride
+10,Delaware,2011,0.06,,,"Pollutant: 1,3-butadiene"
+10,Delaware,2014,0.41,,,Pollutant: Benzene
+10,Delaware,2014,1.13,,,Pollutant: Formaldehyde
+10,Delaware,2014,0.88,,,Pollutant: Acetaldehyde
+10,Delaware,2014,0.55,,,Pollutant: Carbon tetrachloride
+10,Delaware,2014,0.03,,,"Pollutant: 1,3-butadiene"
+10,Delaware,2017,0.25,,,Pollutant: Benzene
+10,Delaware,2017,1.06,,,Pollutant: Formaldehyde
+10,Delaware,2017,0.78,,,Pollutant: Acetaldehyde
+10,Delaware,2017,0.52,,,Pollutant: Carbon tetrachloride
+10,Delaware,2018,0.25,,,Pollutant: Benzene
+10,Delaware,2018,0.91,,,Pollutant: Formaldehyde
+10,Delaware,2018,0.63,,,Pollutant: Acetaldehyde
+10,Delaware,2018,0.38,,,Pollutant: Carbon tetrachloride
+10,Delaware,2018,0.01,,,"Pollutant: 1,3-butadiene"
+11,District of Columbia,2005,1.87,,,Pollutant: Benzene
+11,District of Columbia,2005,3.16,,,Pollutant: Formaldehyde
+11,District of Columbia,2005,2.44,,,Pollutant: Acetaldehyde
+11,District of Columbia,2005,0.61,,,Pollutant: Carbon tetrachloride
+11,District of Columbia,2005,0.16,,,"Pollutant: 1,3-butadiene"
+11,District of Columbia,2011,1.2,,,Pollutant: Benzene
+11,District of Columbia,2011,2.35,,,Pollutant: Formaldehyde
+11,District of Columbia,2011,2.54,,,Pollutant: Acetaldehyde
+11,District of Columbia,2011,0.55,,,Pollutant: Carbon tetrachloride
+11,District of Columbia,2011,0.14,,,"Pollutant: 1,3-butadiene"
+11,District of Columbia,2014,0.74,,,Pollutant: Benzene
+11,District of Columbia,2014,1.69,,,Pollutant: Formaldehyde
+11,District of Columbia,2014,1.23,,,Pollutant: Acetaldehyde
+11,District of Columbia,2014,0.55,,,Pollutant: Carbon tetrachloride
+11,District of Columbia,2014,0.08,,,"Pollutant: 1,3-butadiene"
+11,District of Columbia,2017,0.48,,,Pollutant: Benzene
+11,District of Columbia,2017,1.59,,,Pollutant: Formaldehyde
+11,District of Columbia,2017,1.13,,,Pollutant: Acetaldehyde
+11,District of Columbia,2017,0.52,,,Pollutant: Carbon tetrachloride
+11,District of Columbia,2018,0.46,,,Pollutant: Benzene
+11,District of Columbia,2018,1.45,,,Pollutant: Formaldehyde
+11,District of Columbia,2018,0.98,,,Pollutant: Acetaldehyde
+11,District of Columbia,2018,0.38,,,Pollutant: Carbon tetrachloride
+11,District of Columbia,2018,0.04,,,"Pollutant: 1,3-butadiene"
+12,Florida,2005,1.08,,,Pollutant: Benzene
+12,Florida,2005,2.02,,,Pollutant: Formaldehyde
+12,Florida,2005,1.74,,,Pollutant: Acetaldehyde
+12,Florida,2005,0.61,,,Pollutant: Carbon tetrachloride
+12,Florida,2005,0.07,,,"Pollutant: 1,3-butadiene"
+12,Florida,2011,0.53,,,Pollutant: Benzene
+12,Florida,2011,1.61,,,Pollutant: Formaldehyde
+12,Florida,2011,2.07,,,Pollutant: Acetaldehyde
+12,Florida,2011,0.55,,,Pollutant: Carbon tetrachloride
+12,Florida,2011,0.05,,,"Pollutant: 1,3-butadiene"
+12,Florida,2014,0.35,,,Pollutant: Benzene
+12,Florida,2014,1.65,,,Pollutant: Formaldehyde
+12,Florida,2014,1.34,,,Pollutant: Acetaldehyde
+12,Florida,2014,0.53,,,Pollutant: Carbon tetrachloride
+12,Florida,2014,0.03,,,"Pollutant: 1,3-butadiene"
+12,Florida,2017,0.17,,,Pollutant: Benzene
+12,Florida,2017,1.38,,,Pollutant: Formaldehyde
+12,Florida,2017,1.03,,,Pollutant: Acetaldehyde
+12,Florida,2017,0.5,,,Pollutant: Carbon tetrachloride
+12,Florida,2018,0.15,,,Pollutant: Benzene
+12,Florida,2018,1.27,,,Pollutant: Formaldehyde
+12,Florida,2018,0.92,,,Pollutant: Acetaldehyde
+12,Florida,2018,0.37,,,Pollutant: Carbon tetrachloride
+12,Florida,2018,0.01,,,"Pollutant: 1,3-butadiene"
+13,Georgia,2005,0.81,,,Pollutant: Benzene
+13,Georgia,2005,2.73,,,Pollutant: Formaldehyde
+13,Georgia,2005,2.73,,,Pollutant: Acetaldehyde
+13,Georgia,2005,0.61,,,Pollutant: Carbon tetrachloride
+13,Georgia,2005,0.05,,,"Pollutant: 1,3-butadiene"
+13,Georgia,2011,0.55,,,Pollutant: Benzene
+13,Georgia,2011,2.34,,,Pollutant: Formaldehyde
+13,Georgia,2011,3.12,,,Pollutant: Acetaldehyde
+13,Georgia,2011,0.55,,,Pollutant: Carbon tetrachloride
+13,Georgia,2011,0.05,,,"Pollutant: 1,3-butadiene"
+13,Georgia,2014,0.32,,,Pollutant: Benzene
+13,Georgia,2014,2.05,,,Pollutant: Formaldehyde
+13,Georgia,2014,1.95,,,Pollutant: Acetaldehyde
+13,Georgia,2014,0.53,,,Pollutant: Carbon tetrachloride
+13,Georgia,2014,0.02,,,"Pollutant: 1,3-butadiene"
+13,Georgia,2017,0.19,,,Pollutant: Benzene
+13,Georgia,2017,1.67,,,Pollutant: Formaldehyde
+13,Georgia,2017,1.31,,,Pollutant: Acetaldehyde
+13,Georgia,2017,0.5,,,Pollutant: Carbon tetrachloride
+13,Georgia,2018,0.17,,,Pollutant: Benzene
+13,Georgia,2018,1.49,,,Pollutant: Formaldehyde
+13,Georgia,2018,1.19,,,Pollutant: Acetaldehyde
+13,Georgia,2018,0.37,,,Pollutant: Carbon tetrachloride
+13,Georgia,2018,0.01,,,"Pollutant: 1,3-butadiene"
+15,Hawaii,2005,0.76,,,Pollutant: Benzene
+15,Hawaii,2005,1.08,,,Pollutant: Formaldehyde
+15,Hawaii,2005,1.13,,,Pollutant: Acetaldehyde
+15,Hawaii,2005,0.61,,,Pollutant: Carbon tetrachloride
+15,Hawaii,2005,0.06,,,"Pollutant: 1,3-butadiene"
+15,Hawaii,2011,0.42,,,Pollutant: Benzene
+15,Hawaii,2011,0.14,,,Pollutant: Formaldehyde
+15,Hawaii,2011,0.08,,,Pollutant: Acetaldehyde
+15,Hawaii,2011,0.55,,,Pollutant: Carbon tetrachloride
+15,Hawaii,2011,0.04,,,"Pollutant: 1,3-butadiene"
+15,Hawaii,2014,0.27,,,Pollutant: Benzene
+15,Hawaii,2014,0.33,,,Pollutant: Formaldehyde
+15,Hawaii,2014,0.28,,,Pollutant: Acetaldehyde
+15,Hawaii,2014,0.53,,,Pollutant: Carbon tetrachloride
+15,Hawaii,2014,0.02,,,"Pollutant: 1,3-butadiene"
+15,Hawaii,2017,0.13,,,Pollutant: Benzene
+15,Hawaii,2017,0.5,,,Pollutant: Formaldehyde
+15,Hawaii,2017,0.3,,,Pollutant: Acetaldehyde
+15,Hawaii,2017,0.53,,,Pollutant: Carbon tetrachloride
+15,Hawaii,2018,0.02,,,Pollutant: Benzene
+15,Hawaii,2018,0.62,,,Pollutant: Formaldehyde
+15,Hawaii,2018,0.33,,,Pollutant: Acetaldehyde
+15,Hawaii,2018,0.35,,,Pollutant: Carbon tetrachloride
+15,Hawaii,2018,0,,,"Pollutant: 1,3-butadiene"
+16,Idaho,2005,0.79,,,Pollutant: Benzene
+16,Idaho,2005,1.3,,,Pollutant: Formaldehyde
+16,Idaho,2005,1.38,,,Pollutant: Acetaldehyde
+16,Idaho,2005,0.61,,,Pollutant: Carbon tetrachloride
+16,Idaho,2005,0.03,,,"Pollutant: 1,3-butadiene"
+16,Idaho,2011,0.55,,,Pollutant: Benzene
+16,Idaho,2011,1.26,,,Pollutant: Formaldehyde
+16,Idaho,2011,1.38,,,Pollutant: Acetaldehyde
+16,Idaho,2011,0.55,,,Pollutant: Carbon tetrachloride
+16,Idaho,2011,0.06,,,"Pollutant: 1,3-butadiene"
+16,Idaho,2014,0.21,,,Pollutant: Benzene
+16,Idaho,2014,0.97,,,Pollutant: Formaldehyde
+16,Idaho,2014,0.95,,,Pollutant: Acetaldehyde
+16,Idaho,2014,0.49,,,Pollutant: Carbon tetrachloride
+16,Idaho,2014,0.02,,,"Pollutant: 1,3-butadiene"
+16,Idaho,2017,0.12,,,Pollutant: Benzene
+16,Idaho,2017,0.76,,,Pollutant: Formaldehyde
+16,Idaho,2017,0.68,,,Pollutant: Acetaldehyde
+16,Idaho,2017,0.45,,,Pollutant: Carbon tetrachloride
+16,Idaho,2018,0.11,,,Pollutant: Benzene
+16,Idaho,2018,0.64,,,Pollutant: Formaldehyde
+16,Idaho,2018,0.54,,,Pollutant: Acetaldehyde
+16,Idaho,2018,0.33,,,Pollutant: Carbon tetrachloride
+16,Idaho,2018,0.01,,,"Pollutant: 1,3-butadiene"
+17,Illinois,2005,0.87,,,Pollutant: Benzene
+17,Illinois,2005,1.92,,,Pollutant: Formaldehyde
+17,Illinois,2005,1.83,,,Pollutant: Acetaldehyde
+17,Illinois,2005,0.61,,,Pollutant: Carbon tetrachloride
+17,Illinois,2005,0.07,,,"Pollutant: 1,3-butadiene"
+17,Illinois,2011,0.66,,,Pollutant: Benzene
+17,Illinois,2011,1.34,,,Pollutant: Formaldehyde
+17,Illinois,2011,1.79,,,Pollutant: Acetaldehyde
+17,Illinois,2011,0.55,,,Pollutant: Carbon tetrachloride
+17,Illinois,2011,0.06,,,"Pollutant: 1,3-butadiene"
+17,Illinois,2014,0.43,,,Pollutant: Benzene
+17,Illinois,2014,1.1,,,Pollutant: Formaldehyde
+17,Illinois,2014,0.88,,,Pollutant: Acetaldehyde
+17,Illinois,2014,0.54,,,Pollutant: Carbon tetrachloride
+17,Illinois,2014,0.03,,,"Pollutant: 1,3-butadiene"
+17,Illinois,2017,0.2,,,Pollutant: Benzene
+17,Illinois,2017,1.01,,,Pollutant: Formaldehyde
+17,Illinois,2017,0.76,,,Pollutant: Acetaldehyde
+17,Illinois,2017,0.51,,,Pollutant: Carbon tetrachloride
+17,Illinois,2018,0.23,,,Pollutant: Benzene
+17,Illinois,2018,0.92,,,Pollutant: Formaldehyde
+17,Illinois,2018,0.66,,,Pollutant: Acetaldehyde
+17,Illinois,2018,0.38,,,Pollutant: Carbon tetrachloride
+17,Illinois,2018,0.01,,,"Pollutant: 1,3-butadiene"
+18,Indiana,2005,0.62,,,Pollutant: Benzene
+18,Indiana,2005,1.61,,,Pollutant: Formaldehyde
+18,Indiana,2005,1.7,,,Pollutant: Acetaldehyde
+18,Indiana,2005,0.61,,,Pollutant: Carbon tetrachloride
+18,Indiana,2005,0.04,,,"Pollutant: 1,3-butadiene"
+18,Indiana,2011,0.66,,,Pollutant: Benzene
+18,Indiana,2011,1.32,,,Pollutant: Formaldehyde
+18,Indiana,2011,1.85,,,Pollutant: Acetaldehyde
+18,Indiana,2011,0.55,,,Pollutant: Carbon tetrachloride
+18,Indiana,2011,0.04,,,"Pollutant: 1,3-butadiene"
+18,Indiana,2014,0.39,,,Pollutant: Benzene
+18,Indiana,2014,1.06,,,Pollutant: Formaldehyde
+18,Indiana,2014,0.88,,,Pollutant: Acetaldehyde
+18,Indiana,2014,0.54,,,Pollutant: Carbon tetrachloride
+18,Indiana,2014,0.02,,,"Pollutant: 1,3-butadiene"
+18,Indiana,2017,0.21,,,Pollutant: Benzene
+18,Indiana,2017,0.99,,,Pollutant: Formaldehyde
+18,Indiana,2017,0.76,,,Pollutant: Acetaldehyde
+18,Indiana,2017,0.51,,,Pollutant: Carbon tetrachloride
+18,Indiana,2018,0.23,,,Pollutant: Benzene
+18,Indiana,2018,0.91,,,Pollutant: Formaldehyde
+18,Indiana,2018,0.67,,,Pollutant: Acetaldehyde
+18,Indiana,2018,0.38,,,Pollutant: Carbon tetrachloride
+18,Indiana,2018,0.01,,,"Pollutant: 1,3-butadiene"
+19,Iowa,2005,0.71,,,Pollutant: Benzene
+19,Iowa,2005,1.5,,,Pollutant: Formaldehyde
+19,Iowa,2005,1.54,,,Pollutant: Acetaldehyde
+19,Iowa,2005,0.61,,,Pollutant: Carbon tetrachloride
+19,Iowa,2005,0.03,,,"Pollutant: 1,3-butadiene"
+19,Iowa,2011,0.55,,,Pollutant: Benzene
+19,Iowa,2011,1.17,,,Pollutant: Formaldehyde
+19,Iowa,2011,1.63,,,Pollutant: Acetaldehyde
+19,Iowa,2011,0.55,,,Pollutant: Carbon tetrachloride
+19,Iowa,2011,0.04,,,"Pollutant: 1,3-butadiene"
+19,Iowa,2014,0.27,,,Pollutant: Benzene
+19,Iowa,2014,0.87,,,Pollutant: Formaldehyde
+19,Iowa,2014,0.73,,,Pollutant: Acetaldehyde
+19,Iowa,2014,0.54,,,Pollutant: Carbon tetrachloride
+19,Iowa,2014,0.01,,,"Pollutant: 1,3-butadiene"
+19,Iowa,2017,0.17,,,Pollutant: Benzene
+19,Iowa,2017,0.82,,,Pollutant: Formaldehyde
+19,Iowa,2017,0.63,,,Pollutant: Acetaldehyde
+19,Iowa,2017,0.51,,,Pollutant: Carbon tetrachloride
+19,Iowa,2018,0.22,,,Pollutant: Benzene
+19,Iowa,2018,0.75,,,Pollutant: Formaldehyde
+19,Iowa,2018,0.53,,,Pollutant: Acetaldehyde
+19,Iowa,2018,0.38,,,Pollutant: Carbon tetrachloride
+19,Iowa,2018,0,,,"Pollutant: 1,3-butadiene"
+20,Kansas,2005,0.74,,,Pollutant: Benzene
+20,Kansas,2005,1.75,,,Pollutant: Formaldehyde
+20,Kansas,2005,1.72,,,Pollutant: Acetaldehyde
+20,Kansas,2005,0.61,,,Pollutant: Carbon tetrachloride
+20,Kansas,2005,0.04,,,"Pollutant: 1,3-butadiene"
+20,Kansas,2011,0.56,,,Pollutant: Benzene
+20,Kansas,2011,1.71,,,Pollutant: Formaldehyde
+20,Kansas,2011,2.19,,,Pollutant: Acetaldehyde
+20,Kansas,2011,0.55,,,Pollutant: Carbon tetrachloride
+20,Kansas,2011,0.04,,,"Pollutant: 1,3-butadiene"
+20,Kansas,2014,0.24,,,Pollutant: Benzene
+20,Kansas,2014,1.22,,,Pollutant: Formaldehyde
+20,Kansas,2014,0.91,,,Pollutant: Acetaldehyde
+20,Kansas,2014,0.52,,,Pollutant: Carbon tetrachloride
+20,Kansas,2014,0.01,,,"Pollutant: 1,3-butadiene"
+20,Kansas,2017,0.15,,,Pollutant: Benzene
+20,Kansas,2017,0.95,,,Pollutant: Formaldehyde
+20,Kansas,2017,0.66,,,Pollutant: Acetaldehyde
+20,Kansas,2017,0.49,,,Pollutant: Carbon tetrachloride
+20,Kansas,2018,0.17,,,Pollutant: Benzene
+20,Kansas,2018,0.84,,,Pollutant: Formaldehyde
+20,Kansas,2018,0.55,,,Pollutant: Acetaldehyde
+20,Kansas,2018,0.36,,,Pollutant: Carbon tetrachloride
+20,Kansas,2018,0,,,"Pollutant: 1,3-butadiene"
+21,Kentucky,2005,0.66,,,Pollutant: Benzene
+21,Kentucky,2005,1.9,,,Pollutant: Formaldehyde
+21,Kentucky,2005,2.06,,,Pollutant: Acetaldehyde
+21,Kentucky,2005,0.61,,,Pollutant: Carbon tetrachloride
+21,Kentucky,2005,0.04,,,"Pollutant: 1,3-butadiene"
+21,Kentucky,2011,0.56,,,Pollutant: Benzene
+21,Kentucky,2011,1.69,,,Pollutant: Formaldehyde
+21,Kentucky,2011,2.24,,,Pollutant: Acetaldehyde
+21,Kentucky,2011,0.55,,,Pollutant: Carbon tetrachloride
+21,Kentucky,2011,0.04,,,"Pollutant: 1,3-butadiene"
+21,Kentucky,2014,0.33,,,Pollutant: Benzene
+21,Kentucky,2014,1.44,,,Pollutant: Formaldehyde
+21,Kentucky,2014,1.17,,,Pollutant: Acetaldehyde
+21,Kentucky,2014,0.53,,,Pollutant: Carbon tetrachloride
+21,Kentucky,2014,0.02,,,"Pollutant: 1,3-butadiene"
+21,Kentucky,2017,0.21,,,Pollutant: Benzene
+21,Kentucky,2017,1.27,,,Pollutant: Formaldehyde
+21,Kentucky,2017,0.96,,,Pollutant: Acetaldehyde
+21,Kentucky,2017,0.51,,,Pollutant: Carbon tetrachloride
+21,Kentucky,2018,0.21,,,Pollutant: Benzene
+21,Kentucky,2018,1.15,,,Pollutant: Formaldehyde
+21,Kentucky,2018,0.88,,,Pollutant: Acetaldehyde
+21,Kentucky,2018,0.37,,,Pollutant: Carbon tetrachloride
+21,Kentucky,2018,0.01,,,"Pollutant: 1,3-butadiene"
+22,Louisiana,2005,0.99,,,Pollutant: Benzene
+22,Louisiana,2005,2.34,,,Pollutant: Formaldehyde
+22,Louisiana,2005,2.17,,,Pollutant: Acetaldehyde
+22,Louisiana,2005,0.61,,,Pollutant: Carbon tetrachloride
+22,Louisiana,2005,0.05,,,"Pollutant: 1,3-butadiene"
+22,Louisiana,2011,0.52,,,Pollutant: Benzene
+22,Louisiana,2011,2.09,,,Pollutant: Formaldehyde
+22,Louisiana,2011,2.58,,,Pollutant: Acetaldehyde
+22,Louisiana,2011,0.55,,,Pollutant: Carbon tetrachloride
+22,Louisiana,2011,0.04,,,"Pollutant: 1,3-butadiene"
+22,Louisiana,2014,0.32,,,Pollutant: Benzene
+22,Louisiana,2014,1.87,,,Pollutant: Formaldehyde
+22,Louisiana,2014,1.6,,,Pollutant: Acetaldehyde
+22,Louisiana,2014,0.53,,,Pollutant: Carbon tetrachloride
+22,Louisiana,2014,0.03,,,"Pollutant: 1,3-butadiene"
+22,Louisiana,2017,0.19,,,Pollutant: Benzene
+22,Louisiana,2017,1.6,,,Pollutant: Formaldehyde
+22,Louisiana,2017,1.25,,,Pollutant: Acetaldehyde
+22,Louisiana,2017,0.51,,,Pollutant: Carbon tetrachloride
+22,Louisiana,2018,0.2,,,Pollutant: Benzene
+22,Louisiana,2018,1.5,,,Pollutant: Formaldehyde
+22,Louisiana,2018,1.14,,,Pollutant: Acetaldehyde
+22,Louisiana,2018,0.37,,,Pollutant: Carbon tetrachloride
+22,Louisiana,2018,0.01,,,"Pollutant: 1,3-butadiene"
+23,Maine,2005,0.59,,,Pollutant: Benzene
+23,Maine,2005,1.09,,,Pollutant: Formaldehyde
+23,Maine,2005,1.18,,,Pollutant: Acetaldehyde
+23,Maine,2005,0.61,,,Pollutant: Carbon tetrachloride
+23,Maine,2005,0.04,,,"Pollutant: 1,3-butadiene"
+23,Maine,2011,0.51,,,Pollutant: Benzene
+23,Maine,2011,0.82,,,Pollutant: Formaldehyde
+23,Maine,2011,1.09,,,Pollutant: Acetaldehyde
+23,Maine,2011,0.55,,,Pollutant: Carbon tetrachloride
+23,Maine,2011,0.03,,,"Pollutant: 1,3-butadiene"
+23,Maine,2014,0.33,,,Pollutant: Benzene
+23,Maine,2014,0.81,,,Pollutant: Formaldehyde
+23,Maine,2014,0.83,,,Pollutant: Acetaldehyde
+23,Maine,2014,0.55,,,Pollutant: Carbon tetrachloride
+23,Maine,2014,0.01,,,"Pollutant: 1,3-butadiene"
+23,Maine,2017,0.24,,,Pollutant: Benzene
+23,Maine,2017,0.71,,,Pollutant: Formaldehyde
+23,Maine,2017,0.79,,,Pollutant: Acetaldehyde
+23,Maine,2017,0.53,,,Pollutant: Carbon tetrachloride
+23,Maine,2018,0.23,,,Pollutant: Benzene
+23,Maine,2018,0.65,,,Pollutant: Formaldehyde
+23,Maine,2018,0.6,,,Pollutant: Acetaldehyde
+23,Maine,2018,0.39,,,Pollutant: Carbon tetrachloride
+23,Maine,2018,0.01,,,"Pollutant: 1,3-butadiene"
+24,Maryland,2005,1.2,,,Pollutant: Benzene
+24,Maryland,2005,2.33,,,Pollutant: Formaldehyde
+24,Maryland,2005,2.01,,,Pollutant: Acetaldehyde
+24,Maryland,2005,0.61,,,Pollutant: Carbon tetrachloride
+24,Maryland,2005,0.09,,,"Pollutant: 1,3-butadiene"
+24,Maryland,2011,0.8,,,Pollutant: Benzene
+24,Maryland,2011,1.7,,,Pollutant: Formaldehyde
+24,Maryland,2011,2.1,,,Pollutant: Acetaldehyde
+24,Maryland,2011,0.55,,,Pollutant: Carbon tetrachloride
+24,Maryland,2011,0.08,,,"Pollutant: 1,3-butadiene"
+24,Maryland,2014,0.46,,,Pollutant: Benzene
+24,Maryland,2014,1.34,,,Pollutant: Formaldehyde
+24,Maryland,2014,1.01,,,Pollutant: Acetaldehyde
+24,Maryland,2014,0.54,,,Pollutant: Carbon tetrachloride
+24,Maryland,2014,0.03,,,"Pollutant: 1,3-butadiene"
+24,Maryland,2017,0.27,,,Pollutant: Benzene
+24,Maryland,2017,1.2,,,Pollutant: Formaldehyde
+24,Maryland,2017,0.87,,,Pollutant: Acetaldehyde
+24,Maryland,2017,0.52,,,Pollutant: Carbon tetrachloride
+24,Maryland,2018,0.27,,,Pollutant: Benzene
+24,Maryland,2018,1.04,,,Pollutant: Formaldehyde
+24,Maryland,2018,0.72,,,Pollutant: Acetaldehyde
+24,Maryland,2018,0.38,,,Pollutant: Carbon tetrachloride
+24,Maryland,2018,0.01,,,"Pollutant: 1,3-butadiene"
+25,Massachusetts,2005,1.04,,,Pollutant: Benzene
+25,Massachusetts,2005,1.8,,,Pollutant: Formaldehyde
+25,Massachusetts,2005,1.59,,,Pollutant: Acetaldehyde
+25,Massachusetts,2005,0.61,,,Pollutant: Carbon tetrachloride
+25,Massachusetts,2005,0.08,,,"Pollutant: 1,3-butadiene"
+25,Massachusetts,2011,0.81,,,Pollutant: Benzene
+25,Massachusetts,2011,1.26,,,Pollutant: Formaldehyde
+25,Massachusetts,2011,1.43,,,Pollutant: Acetaldehyde
+25,Massachusetts,2011,0.55,,,Pollutant: Carbon tetrachloride
+25,Massachusetts,2011,0.08,,,"Pollutant: 1,3-butadiene"
+25,Massachusetts,2014,0.48,,,Pollutant: Benzene
+25,Massachusetts,2014,0.99,,,Pollutant: Formaldehyde
+25,Massachusetts,2014,0.8,,,Pollutant: Acetaldehyde
+25,Massachusetts,2014,0.55,,,Pollutant: Carbon tetrachloride
+25,Massachusetts,2014,0.03,,,"Pollutant: 1,3-butadiene"
+25,Massachusetts,2017,0.27,,,Pollutant: Benzene
+25,Massachusetts,2017,0.94,,,Pollutant: Formaldehyde
+25,Massachusetts,2017,0.77,,,Pollutant: Acetaldehyde
+25,Massachusetts,2017,0.52,,,Pollutant: Carbon tetrachloride
+25,Massachusetts,2018,0.26,,,Pollutant: Benzene
+25,Massachusetts,2018,0.84,,,Pollutant: Formaldehyde
+25,Massachusetts,2018,0.61,,,Pollutant: Acetaldehyde
+25,Massachusetts,2018,0.38,,,Pollutant: Carbon tetrachloride
+25,Massachusetts,2018,0.01,,,"Pollutant: 1,3-butadiene"
+26,Michigan,2005,1.19,,,Pollutant: Benzene
+26,Michigan,2005,1.6,,,Pollutant: Formaldehyde
+26,Michigan,2005,1.51,,,Pollutant: Acetaldehyde
+26,Michigan,2005,0.61,,,Pollutant: Carbon tetrachloride
+26,Michigan,2005,0.07,,,"Pollutant: 1,3-butadiene"
+26,Michigan,2011,0.67,,,Pollutant: Benzene
+26,Michigan,2011,1.1,,,Pollutant: Formaldehyde
+26,Michigan,2011,1.48,,,Pollutant: Acetaldehyde
+26,Michigan,2011,0.55,,,Pollutant: Carbon tetrachloride
+26,Michigan,2011,0.05,,,"Pollutant: 1,3-butadiene"
+26,Michigan,2014,0.42,,,Pollutant: Benzene
+26,Michigan,2014,0.85,,,Pollutant: Formaldehyde
+26,Michigan,2014,0.71,,,Pollutant: Acetaldehyde
+26,Michigan,2014,0.54,,,Pollutant: Carbon tetrachloride
+26,Michigan,2014,0.02,,,"Pollutant: 1,3-butadiene"
+26,Michigan,2017,0.21,,,Pollutant: Benzene
+26,Michigan,2017,0.71,,,Pollutant: Formaldehyde
+26,Michigan,2017,0.62,,,Pollutant: Acetaldehyde
+26,Michigan,2017,0.52,,,Pollutant: Carbon tetrachloride
+26,Michigan,2018,0.25,,,Pollutant: Benzene
+26,Michigan,2018,0.67,,,Pollutant: Formaldehyde
+26,Michigan,2018,0.52,,,Pollutant: Acetaldehyde
+26,Michigan,2018,0.38,,,Pollutant: Carbon tetrachloride
+26,Michigan,2018,0.01,,,"Pollutant: 1,3-butadiene"
+27,Minnesota,2005,0.84,,,Pollutant: Benzene
+27,Minnesota,2005,1.55,,,Pollutant: Formaldehyde
+27,Minnesota,2005,1.46,,,Pollutant: Acetaldehyde
+27,Minnesota,2005,0.61,,,Pollutant: Carbon tetrachloride
+27,Minnesota,2005,0.06,,,"Pollutant: 1,3-butadiene"
+27,Minnesota,2011,0.72,,,Pollutant: Benzene
+27,Minnesota,2011,1.25,,,Pollutant: Formaldehyde
+27,Minnesota,2011,1.45,,,Pollutant: Acetaldehyde
+27,Minnesota,2011,0.55,,,Pollutant: Carbon tetrachloride
+27,Minnesota,2011,0.07,,,"Pollutant: 1,3-butadiene"
+27,Minnesota,2014,0.4,,,Pollutant: Benzene
+27,Minnesota,2014,0.76,,,Pollutant: Formaldehyde
+27,Minnesota,2014,0.63,,,Pollutant: Acetaldehyde
+27,Minnesota,2014,0.54,,,Pollutant: Carbon tetrachloride
+27,Minnesota,2014,0.02,,,"Pollutant: 1,3-butadiene"
+27,Minnesota,2017,0.21,,,Pollutant: Benzene
+27,Minnesota,2017,0.72,,,Pollutant: Formaldehyde
+27,Minnesota,2017,0.66,,,Pollutant: Acetaldehyde
+27,Minnesota,2017,0.52,,,Pollutant: Carbon tetrachloride
+27,Minnesota,2018,0.32,,,Pollutant: Benzene
+27,Minnesota,2018,0.72,,,Pollutant: Formaldehyde
+27,Minnesota,2018,0.55,,,Pollutant: Acetaldehyde
+27,Minnesota,2018,0.38,,,Pollutant: Carbon tetrachloride
+27,Minnesota,2018,0.01,,,"Pollutant: 1,3-butadiene"
+28,Mississippi,2005,0.69,,,Pollutant: Benzene
+28,Mississippi,2005,2.44,,,Pollutant: Formaldehyde
+28,Mississippi,2005,2.56,,,Pollutant: Acetaldehyde
+28,Mississippi,2005,0.61,,,Pollutant: Carbon tetrachloride
+28,Mississippi,2005,0.03,,,"Pollutant: 1,3-butadiene"
+28,Mississippi,2011,0.42,,,Pollutant: Benzene
+28,Mississippi,2011,2.34,,,Pollutant: Formaldehyde
+28,Mississippi,2011,3.01,,,Pollutant: Acetaldehyde
+28,Mississippi,2011,0.55,,,Pollutant: Carbon tetrachloride
+28,Mississippi,2011,0.03,,,"Pollutant: 1,3-butadiene"
+28,Mississippi,2014,0.26,,,Pollutant: Benzene
+28,Mississippi,2014,2.02,,,Pollutant: Formaldehyde
+28,Mississippi,2014,1.91,,,Pollutant: Acetaldehyde
+28,Mississippi,2014,0.53,,,Pollutant: Carbon tetrachloride
+28,Mississippi,2014,0.02,,,"Pollutant: 1,3-butadiene"
+28,Mississippi,2017,0.15,,,Pollutant: Benzene
+28,Mississippi,2017,1.66,,,Pollutant: Formaldehyde
+28,Mississippi,2017,1.36,,,Pollutant: Acetaldehyde
+28,Mississippi,2017,0.51,,,Pollutant: Carbon tetrachloride
+28,Mississippi,2018,0.16,,,Pollutant: Benzene
+28,Mississippi,2018,1.58,,,Pollutant: Formaldehyde
+28,Mississippi,2018,1.3,,,Pollutant: Acetaldehyde
+28,Mississippi,2018,0.37,,,Pollutant: Carbon tetrachloride
+28,Mississippi,2018,0.01,,,"Pollutant: 1,3-butadiene"
+29,Missouri,2005,0.9,,,Pollutant: Benzene
+29,Missouri,2005,2.1,,,Pollutant: Formaldehyde
+29,Missouri,2005,2.08,,,Pollutant: Acetaldehyde
+29,Missouri,2005,0.61,,,Pollutant: Carbon tetrachloride
+29,Missouri,2005,0.06,,,"Pollutant: 1,3-butadiene"
+29,Missouri,2011,0.54,,,Pollutant: Benzene
+29,Missouri,2011,2,,,Pollutant: Formaldehyde
+29,Missouri,2011,2.41,,,Pollutant: Acetaldehyde
+29,Missouri,2011,0.55,,,Pollutant: Carbon tetrachloride
+29,Missouri,2011,0.04,,,"Pollutant: 1,3-butadiene"
+29,Missouri,2014,0.3,,,Pollutant: Benzene
+29,Missouri,2014,1.42,,,Pollutant: Formaldehyde
+29,Missouri,2014,1.08,,,Pollutant: Acetaldehyde
+29,Missouri,2014,0.53,,,Pollutant: Carbon tetrachloride
+29,Missouri,2014,0.02,,,"Pollutant: 1,3-butadiene"
+29,Missouri,2017,0.19,,,Pollutant: Benzene
+29,Missouri,2017,1.26,,,Pollutant: Formaldehyde
+29,Missouri,2017,0.93,,,Pollutant: Acetaldehyde
+29,Missouri,2017,0.51,,,Pollutant: Carbon tetrachloride
+29,Missouri,2018,0.21,,,Pollutant: Benzene
+29,Missouri,2018,1.13,,,Pollutant: Formaldehyde
+29,Missouri,2018,0.82,,,Pollutant: Acetaldehyde
+29,Missouri,2018,0.37,,,Pollutant: Carbon tetrachloride
+29,Missouri,2018,0.01,,,"Pollutant: 1,3-butadiene"
+30,Montana,2005,0.45,,,Pollutant: Benzene
+30,Montana,2005,0.8,,,Pollutant: Formaldehyde
+30,Montana,2005,0.91,,,Pollutant: Acetaldehyde
+30,Montana,2005,0.61,,,Pollutant: Carbon tetrachloride
+30,Montana,2005,0.02,,,"Pollutant: 1,3-butadiene"
+30,Montana,2011,0.39,,,Pollutant: Benzene
+30,Montana,2011,0.83,,,Pollutant: Formaldehyde
+30,Montana,2011,1.16,,,Pollutant: Acetaldehyde
+30,Montana,2011,0.55,,,Pollutant: Carbon tetrachloride
+30,Montana,2011,0.03,,,"Pollutant: 1,3-butadiene"
+30,Montana,2014,0.18,,,Pollutant: Benzene
+30,Montana,2014,0.72,,,Pollutant: Formaldehyde
+30,Montana,2014,0.74,,,Pollutant: Acetaldehyde
+30,Montana,2014,0.49,,,Pollutant: Carbon tetrachloride
+30,Montana,2014,0.01,,,"Pollutant: 1,3-butadiene"
+30,Montana,2017,0.15,,,Pollutant: Benzene
+30,Montana,2017,0.73,,,Pollutant: Formaldehyde
+30,Montana,2017,0.67,,,Pollutant: Acetaldehyde
+30,Montana,2017,0.47,,,Pollutant: Carbon tetrachloride
+30,Montana,2018,0.2,,,Pollutant: Benzene
+30,Montana,2018,0.55,,,Pollutant: Formaldehyde
+30,Montana,2018,0.48,,,Pollutant: Acetaldehyde
+30,Montana,2018,0.34,,,Pollutant: Carbon tetrachloride
+30,Montana,2018,0,,,"Pollutant: 1,3-butadiene"
+31,Nebraska,2005,1.1,,,Pollutant: Benzene
+31,Nebraska,2005,1.59,,,Pollutant: Formaldehyde
+31,Nebraska,2005,1.51,,,Pollutant: Acetaldehyde
+31,Nebraska,2005,0.61,,,Pollutant: Carbon tetrachloride
+31,Nebraska,2005,0.04,,,"Pollutant: 1,3-butadiene"
+31,Nebraska,2011,0.55,,,Pollutant: Benzene
+31,Nebraska,2011,1.22,,,Pollutant: Formaldehyde
+31,Nebraska,2011,1.63,,,Pollutant: Acetaldehyde
+31,Nebraska,2011,0.55,,,Pollutant: Carbon tetrachloride
+31,Nebraska,2011,0.04,,,"Pollutant: 1,3-butadiene"
+31,Nebraska,2014,0.22,,,Pollutant: Benzene
+31,Nebraska,2014,0.88,,,Pollutant: Formaldehyde
+31,Nebraska,2014,0.69,,,Pollutant: Acetaldehyde
+31,Nebraska,2014,0.52,,,Pollutant: Carbon tetrachloride
+31,Nebraska,2014,0.01,,,"Pollutant: 1,3-butadiene"
+31,Nebraska,2017,0.12,,,Pollutant: Benzene
+31,Nebraska,2017,0.71,,,Pollutant: Formaldehyde
+31,Nebraska,2017,0.5,,,Pollutant: Acetaldehyde
+31,Nebraska,2017,0.48,,,Pollutant: Carbon tetrachloride
+31,Nebraska,2018,0.16,,,Pollutant: Benzene
+31,Nebraska,2018,0.62,,,Pollutant: Formaldehyde
+31,Nebraska,2018,0.4,,,Pollutant: Acetaldehyde
+31,Nebraska,2018,0.36,,,Pollutant: Carbon tetrachloride
+31,Nebraska,2018,0,,,"Pollutant: 1,3-butadiene"
+32,Nevada,2005,1.04,,,Pollutant: Benzene
+32,Nevada,2005,1.92,,,Pollutant: Formaldehyde
+32,Nevada,2005,1.81,,,Pollutant: Acetaldehyde
+32,Nevada,2005,0.61,,,Pollutant: Carbon tetrachloride
+32,Nevada,2005,0.08,,,"Pollutant: 1,3-butadiene"
+32,Nevada,2011,0.65,,,Pollutant: Benzene
+32,Nevada,2011,1.71,,,Pollutant: Formaldehyde
+32,Nevada,2011,1.85,,,Pollutant: Acetaldehyde
+32,Nevada,2011,0.55,,,Pollutant: Carbon tetrachloride
+32,Nevada,2011,0.07,,,"Pollutant: 1,3-butadiene"
+32,Nevada,2014,0.29,,,Pollutant: Benzene
+32,Nevada,2014,1.39,,,Pollutant: Formaldehyde
+32,Nevada,2014,1.24,,,Pollutant: Acetaldehyde
+32,Nevada,2014,0.47,,,Pollutant: Carbon tetrachloride
+32,Nevada,2014,0.03,,,"Pollutant: 1,3-butadiene"
+32,Nevada,2017,0.07,,,Pollutant: Benzene
+32,Nevada,2017,0.59,,,Pollutant: Formaldehyde
+32,Nevada,2017,0.43,,,Pollutant: Acetaldehyde
+32,Nevada,2017,0.43,,,Pollutant: Carbon tetrachloride
+32,Nevada,2018,0.08,,,Pollutant: Benzene
+32,Nevada,2018,0.55,,,Pollutant: Formaldehyde
+32,Nevada,2018,0.39,,,Pollutant: Acetaldehyde
+32,Nevada,2018,0.32,,,Pollutant: Carbon tetrachloride
+32,Nevada,2018,0,,,"Pollutant: 1,3-butadiene"
+33,New Hampshire,2005,0.68,,,Pollutant: Benzene
+33,New Hampshire,2005,1.34,,,Pollutant: Formaldehyde
+33,New Hampshire,2005,1.37,,,Pollutant: Acetaldehyde
+33,New Hampshire,2005,0.61,,,Pollutant: Carbon tetrachloride
+33,New Hampshire,2005,0.05,,,"Pollutant: 1,3-butadiene"
+33,New Hampshire,2011,0.62,,,Pollutant: Benzene
+33,New Hampshire,2011,1.09,,,Pollutant: Formaldehyde
+33,New Hampshire,2011,1.33,,,Pollutant: Acetaldehyde
+33,New Hampshire,2011,0.55,,,Pollutant: Carbon tetrachloride
+33,New Hampshire,2011,0.05,,,"Pollutant: 1,3-butadiene"
+33,New Hampshire,2014,0.38,,,Pollutant: Benzene
+33,New Hampshire,2014,0.92,,,Pollutant: Formaldehyde
+33,New Hampshire,2014,0.81,,,Pollutant: Acetaldehyde
+33,New Hampshire,2014,0.55,,,Pollutant: Carbon tetrachloride
+33,New Hampshire,2014,0.02,,,"Pollutant: 1,3-butadiene"
+33,New Hampshire,2017,0.25,,,Pollutant: Benzene
+33,New Hampshire,2017,0.82,,,Pollutant: Formaldehyde
+33,New Hampshire,2017,0.79,,,Pollutant: Acetaldehyde
+33,New Hampshire,2017,0.52,,,Pollutant: Carbon tetrachloride
+33,New Hampshire,2018,0.25,,,Pollutant: Benzene
+33,New Hampshire,2018,0.76,,,Pollutant: Formaldehyde
+33,New Hampshire,2018,0.64,,,Pollutant: Acetaldehyde
+33,New Hampshire,2018,0.38,,,Pollutant: Carbon tetrachloride
+33,New Hampshire,2018,0.01,,,"Pollutant: 1,3-butadiene"
+34,New Jersey,2005,1.33,,,Pollutant: Benzene
+34,New Jersey,2005,2.18,,,Pollutant: Formaldehyde
+34,New Jersey,2005,1.94,,,Pollutant: Acetaldehyde
+34,New Jersey,2005,0.61,,,Pollutant: Carbon tetrachloride
+34,New Jersey,2005,0.1,,,"Pollutant: 1,3-butadiene"
+34,New Jersey,2011,0.91,,,Pollutant: Benzene
+34,New Jersey,2011,1.57,,,Pollutant: Formaldehyde
+34,New Jersey,2011,1.86,,,Pollutant: Acetaldehyde
+34,New Jersey,2011,0.55,,,Pollutant: Carbon tetrachloride
+34,New Jersey,2011,0.1,,,"Pollutant: 1,3-butadiene"
+34,New Jersey,2014,0.54,,,Pollutant: Benzene
+34,New Jersey,2014,1.22,,,Pollutant: Formaldehyde
+34,New Jersey,2014,0.94,,,Pollutant: Acetaldehyde
+34,New Jersey,2014,0.55,,,Pollutant: Carbon tetrachloride
+34,New Jersey,2014,0.04,,,"Pollutant: 1,3-butadiene"
+34,New Jersey,2017,0.34,,,Pollutant: Benzene
+34,New Jersey,2017,1.13,,,Pollutant: Formaldehyde
+34,New Jersey,2017,0.84,,,Pollutant: Acetaldehyde
+34,New Jersey,2017,0.52,,,Pollutant: Carbon tetrachloride
+34,New Jersey,2018,0.32,,,Pollutant: Benzene
+34,New Jersey,2018,1,,,Pollutant: Formaldehyde
+34,New Jersey,2018,0.71,,,Pollutant: Acetaldehyde
+34,New Jersey,2018,0.38,,,Pollutant: Carbon tetrachloride
+34,New Jersey,2018,0.02,,,"Pollutant: 1,3-butadiene"
+35,New Mexico,2005,0.7,,,Pollutant: Benzene
+35,New Mexico,2005,1.23,,,Pollutant: Formaldehyde
+35,New Mexico,2005,1.27,,,Pollutant: Acetaldehyde
+35,New Mexico,2005,0.61,,,Pollutant: Carbon tetrachloride
+35,New Mexico,2005,0.04,,,"Pollutant: 1,3-butadiene"
+35,New Mexico,2011,0.45,,,Pollutant: Benzene
+35,New Mexico,2011,1.42,,,Pollutant: Formaldehyde
+35,New Mexico,2011,1.87,,,Pollutant: Acetaldehyde
+35,New Mexico,2011,0.55,,,Pollutant: Carbon tetrachloride
+35,New Mexico,2011,0.04,,,"Pollutant: 1,3-butadiene"
+35,New Mexico,2014,0.17,,,Pollutant: Benzene
+35,New Mexico,2014,1.06,,,Pollutant: Formaldehyde
+35,New Mexico,2014,0.89,,,Pollutant: Acetaldehyde
+35,New Mexico,2014,0.45,,,Pollutant: Carbon tetrachloride
+35,New Mexico,2014,0.01,,,"Pollutant: 1,3-butadiene"
+35,New Mexico,2017,0.07,,,Pollutant: Benzene
+35,New Mexico,2017,0.65,,,Pollutant: Formaldehyde
+35,New Mexico,2017,0.4,,,Pollutant: Acetaldehyde
+35,New Mexico,2017,0.42,,,Pollutant: Carbon tetrachloride
+35,New Mexico,2018,0.08,,,Pollutant: Benzene
+35,New Mexico,2018,0.59,,,Pollutant: Formaldehyde
+35,New Mexico,2018,0.33,,,Pollutant: Acetaldehyde
+35,New Mexico,2018,0.31,,,Pollutant: Carbon tetrachloride
+35,New Mexico,2018,0,,,"Pollutant: 1,3-butadiene"
+36,New York,2005,1.96,,,Pollutant: Benzene
+36,New York,2005,2.23,,,Pollutant: Formaldehyde
+36,New York,2005,1.98,,,Pollutant: Acetaldehyde
+36,New York,2005,0.61,,,Pollutant: Carbon tetrachloride
+36,New York,2005,0.12,,,"Pollutant: 1,3-butadiene"
+36,New York,2011,1.09,,,Pollutant: Benzene
+36,New York,2011,1.58,,,Pollutant: Formaldehyde
+36,New York,2011,1.91,,,Pollutant: Acetaldehyde
+36,New York,2011,0.55,,,Pollutant: Carbon tetrachloride
+36,New York,2011,0.12,,,"Pollutant: 1,3-butadiene"
+36,New York,2014,0.48,,,Pollutant: Benzene
+36,New York,2014,0.98,,,Pollutant: Formaldehyde
+36,New York,2014,0.81,,,Pollutant: Acetaldehyde
+36,New York,2014,0.54,,,Pollutant: Carbon tetrachloride
+36,New York,2014,0.03,,,"Pollutant: 1,3-butadiene"
+36,New York,2017,0.25,,,Pollutant: Benzene
+36,New York,2017,0.78,,,Pollutant: Formaldehyde
+36,New York,2017,0.68,,,Pollutant: Acetaldehyde
+36,New York,2017,0.51,,,Pollutant: Carbon tetrachloride
+36,New York,2018,0.25,,,Pollutant: Benzene
+36,New York,2018,0.71,,,Pollutant: Formaldehyde
+36,New York,2018,0.56,,,Pollutant: Acetaldehyde
+36,New York,2018,0.38,,,Pollutant: Carbon tetrachloride
+36,New York,2018,0,,,"Pollutant: 1,3-butadiene"
+37,North Carolina,2005,0.73,,,Pollutant: Benzene
+37,North Carolina,2005,2.11,,,Pollutant: Formaldehyde
+37,North Carolina,2005,2.17,,,Pollutant: Acetaldehyde
+37,North Carolina,2005,0.61,,,Pollutant: Carbon tetrachloride
+37,North Carolina,2005,0.04,,,"Pollutant: 1,3-butadiene"
+37,North Carolina,2011,0.5,,,Pollutant: Benzene
+37,North Carolina,2011,1.91,,,Pollutant: Formaldehyde
+37,North Carolina,2011,2.54,,,Pollutant: Acetaldehyde
+37,North Carolina,2011,0.55,,,Pollutant: Carbon tetrachloride
+37,North Carolina,2011,0.04,,,"Pollutant: 1,3-butadiene"
+37,North Carolina,2014,0.34,,,Pollutant: Benzene
+37,North Carolina,2014,1.6,,,Pollutant: Formaldehyde
+37,North Carolina,2014,1.4,,,Pollutant: Acetaldehyde
+37,North Carolina,2014,0.53,,,Pollutant: Carbon tetrachloride
+37,North Carolina,2014,0.02,,,"Pollutant: 1,3-butadiene"
+37,North Carolina,2017,0.2,,,Pollutant: Benzene
+37,North Carolina,2017,1.31,,,Pollutant: Formaldehyde
+37,North Carolina,2017,1.01,,,Pollutant: Acetaldehyde
+37,North Carolina,2017,0.5,,,Pollutant: Carbon tetrachloride
+37,North Carolina,2018,0.19,,,Pollutant: Benzene
+37,North Carolina,2018,1.18,,,Pollutant: Formaldehyde
+37,North Carolina,2018,0.9,,,Pollutant: Acetaldehyde
+37,North Carolina,2018,0.37,,,Pollutant: Carbon tetrachloride
+37,North Carolina,2018,0.01,,,"Pollutant: 1,3-butadiene"
+38,North Dakota,2005,0.39,,,Pollutant: Benzene
+38,North Dakota,2005,0.75,,,Pollutant: Formaldehyde
+38,North Dakota,2005,0.8,,,Pollutant: Acetaldehyde
+38,North Dakota,2005,0.61,,,Pollutant: Carbon tetrachloride
+38,North Dakota,2005,0.02,,,"Pollutant: 1,3-butadiene"
+38,North Dakota,2011,0.59,,,Pollutant: Benzene
+38,North Dakota,2011,0.77,,,Pollutant: Formaldehyde
+38,North Dakota,2011,0.97,,,Pollutant: Acetaldehyde
+38,North Dakota,2011,0.55,,,Pollutant: Carbon tetrachloride
+38,North Dakota,2011,0.03,,,"Pollutant: 1,3-butadiene"
+38,North Dakota,2014,0.36,,,Pollutant: Benzene
+38,North Dakota,2014,0.61,,,Pollutant: Formaldehyde
+38,North Dakota,2014,0.48,,,Pollutant: Acetaldehyde
+38,North Dakota,2014,0.54,,,Pollutant: Carbon tetrachloride
+38,North Dakota,2014,0.01,,,"Pollutant: 1,3-butadiene"
+38,North Dakota,2017,0.29,,,Pollutant: Benzene
+38,North Dakota,2017,0.71,,,Pollutant: Formaldehyde
+38,North Dakota,2017,0.59,,,Pollutant: Acetaldehyde
+38,North Dakota,2017,0.51,,,Pollutant: Carbon tetrachloride
+38,North Dakota,2018,0.44,,,Pollutant: Benzene
+38,North Dakota,2018,0.64,,,Pollutant: Formaldehyde
+38,North Dakota,2018,0.43,,,Pollutant: Acetaldehyde
+38,North Dakota,2018,0.37,,,Pollutant: Carbon tetrachloride
+38,North Dakota,2018,0,,,"Pollutant: 1,3-butadiene"
+39,Ohio,2005,1.07,,,Pollutant: Benzene
+39,Ohio,2005,1.63,,,Pollutant: Formaldehyde
+39,Ohio,2005,1.67,,,Pollutant: Acetaldehyde
+39,Ohio,2005,0.61,,,Pollutant: Carbon tetrachloride
+39,Ohio,2005,0.06,,,"Pollutant: 1,3-butadiene"
+39,Ohio,2011,0.8,,,Pollutant: Benzene
+39,Ohio,2011,1.3,,,Pollutant: Formaldehyde
+39,Ohio,2011,1.8,,,Pollutant: Acetaldehyde
+39,Ohio,2011,0.55,,,Pollutant: Carbon tetrachloride
+39,Ohio,2011,0.06,,,"Pollutant: 1,3-butadiene"
+39,Ohio,2014,0.41,,,Pollutant: Benzene
+39,Ohio,2014,1.04,,,Pollutant: Formaldehyde
+39,Ohio,2014,0.85,,,Pollutant: Acetaldehyde
+39,Ohio,2014,0.54,,,Pollutant: Carbon tetrachloride
+39,Ohio,2014,0.02,,,"Pollutant: 1,3-butadiene"
+39,Ohio,2017,0.25,,,Pollutant: Benzene
+39,Ohio,2017,1.01,,,Pollutant: Formaldehyde
+39,Ohio,2017,0.78,,,Pollutant: Acetaldehyde
+39,Ohio,2017,0.51,,,Pollutant: Carbon tetrachloride
+39,Ohio,2018,0.26,,,Pollutant: Benzene
+39,Ohio,2018,0.91,,,Pollutant: Formaldehyde
+39,Ohio,2018,0.68,,,Pollutant: Acetaldehyde
+39,Ohio,2018,0.37,,,Pollutant: Carbon tetrachloride
+39,Ohio,2018,0.01,,,"Pollutant: 1,3-butadiene"
+40,Oklahoma,2005,0.7,,,Pollutant: Benzene
+40,Oklahoma,2005,2.06,,,Pollutant: Formaldehyde
+40,Oklahoma,2005,2.06,,,Pollutant: Acetaldehyde
+40,Oklahoma,2005,0.61,,,Pollutant: Carbon tetrachloride
+40,Oklahoma,2005,0.04,,,"Pollutant: 1,3-butadiene"
+40,Oklahoma,2011,0.55,,,Pollutant: Benzene
+40,Oklahoma,2011,2.14,,,Pollutant: Formaldehyde
+40,Oklahoma,2011,2.68,,,Pollutant: Acetaldehyde
+40,Oklahoma,2011,0.55,,,Pollutant: Carbon tetrachloride
+40,Oklahoma,2011,0.04,,,"Pollutant: 1,3-butadiene"
+40,Oklahoma,2014,0.26,,,Pollutant: Benzene
+40,Oklahoma,2014,1.65,,,Pollutant: Formaldehyde
+40,Oklahoma,2014,1.21,,,Pollutant: Acetaldehyde
+40,Oklahoma,2014,0.52,,,Pollutant: Carbon tetrachloride
+40,Oklahoma,2014,0.01,,,"Pollutant: 1,3-butadiene"
+40,Oklahoma,2017,0.18,,,Pollutant: Benzene
+40,Oklahoma,2017,1.27,,,Pollutant: Formaldehyde
+40,Oklahoma,2017,0.87,,,Pollutant: Acetaldehyde
+40,Oklahoma,2017,0.5,,,Pollutant: Carbon tetrachloride
+40,Oklahoma,2018,0.2,,,Pollutant: Benzene
+40,Oklahoma,2018,1.14,,,Pollutant: Formaldehyde
+40,Oklahoma,2018,0.74,,,Pollutant: Acetaldehyde
+40,Oklahoma,2018,0.36,,,Pollutant: Carbon tetrachloride
+40,Oklahoma,2018,0.01,,,"Pollutant: 1,3-butadiene"
+41,Oregon,2005,1.42,,,Pollutant: Benzene
+41,Oregon,2005,2.26,,,Pollutant: Formaldehyde
+41,Oregon,2005,2.16,,,Pollutant: Acetaldehyde
+41,Oregon,2005,0.61,,,Pollutant: Carbon tetrachloride
+41,Oregon,2005,0.09,,,"Pollutant: 1,3-butadiene"
+41,Oregon,2011,0.86,,,Pollutant: Benzene
+41,Oregon,2011,1.37,,,Pollutant: Formaldehyde
+41,Oregon,2011,1.45,,,Pollutant: Acetaldehyde
+41,Oregon,2011,0.55,,,Pollutant: Carbon tetrachloride
+41,Oregon,2011,0.1,,,"Pollutant: 1,3-butadiene"
+41,Oregon,2014,0.36,,,Pollutant: Benzene
+41,Oregon,2014,1.22,,,Pollutant: Formaldehyde
+41,Oregon,2014,1.2,,,Pollutant: Acetaldehyde
+41,Oregon,2014,0.53,,,Pollutant: Carbon tetrachloride
+41,Oregon,2014,0.04,,,"Pollutant: 1,3-butadiene"
+41,Oregon,2017,0.16,,,Pollutant: Benzene
+41,Oregon,2017,0.96,,,Pollutant: Formaldehyde
+41,Oregon,2017,0.88,,,Pollutant: Acetaldehyde
+41,Oregon,2017,0.48,,,Pollutant: Carbon tetrachloride
+41,Oregon,2018,0.15,,,Pollutant: Benzene
+41,Oregon,2018,0.81,,,Pollutant: Formaldehyde
+41,Oregon,2018,0.69,,,Pollutant: Acetaldehyde
+41,Oregon,2018,0.35,,,Pollutant: Carbon tetrachloride
+41,Oregon,2018,0.01,,,"Pollutant: 1,3-butadiene"
+42,Pennsylvania,2005,0.96,,,Pollutant: Benzene
+42,Pennsylvania,2005,1.68,,,Pollutant: Formaldehyde
+42,Pennsylvania,2005,1.61,,,Pollutant: Acetaldehyde
+42,Pennsylvania,2005,0.61,,,Pollutant: Carbon tetrachloride
+42,Pennsylvania,2005,0.07,,,"Pollutant: 1,3-butadiene"
+42,Pennsylvania,2011,0.86,,,Pollutant: Benzene
+42,Pennsylvania,2011,1.37,,,Pollutant: Formaldehyde
+42,Pennsylvania,2011,1.78,,,Pollutant: Acetaldehyde
+42,Pennsylvania,2011,0.55,,,Pollutant: Carbon tetrachloride
+42,Pennsylvania,2011,0.08,,,"Pollutant: 1,3-butadiene"
+42,Pennsylvania,2014,0.48,,,Pollutant: Benzene
+42,Pennsylvania,2014,1.09,,,Pollutant: Formaldehyde
+42,Pennsylvania,2014,0.86,,,Pollutant: Acetaldehyde
+42,Pennsylvania,2014,0.54,,,Pollutant: Carbon tetrachloride
+42,Pennsylvania,2014,0.03,,,"Pollutant: 1,3-butadiene"
+42,Pennsylvania,2017,0.37,,,Pollutant: Benzene
+42,Pennsylvania,2017,1,,,Pollutant: Formaldehyde
+42,Pennsylvania,2017,0.75,,,Pollutant: Acetaldehyde
+42,Pennsylvania,2017,0.51,,,Pollutant: Carbon tetrachloride
+42,Pennsylvania,2018,0.39,,,Pollutant: Benzene
+42,Pennsylvania,2018,0.89,,,Pollutant: Formaldehyde
+42,Pennsylvania,2018,0.64,,,Pollutant: Acetaldehyde
+42,Pennsylvania,2018,0.37,,,Pollutant: Carbon tetrachloride
+42,Pennsylvania,2018,0.01,,,"Pollutant: 1,3-butadiene"
+44,Rhode Island,2005,0.79,,,Pollutant: Benzene
+44,Rhode Island,2005,1.48,,,Pollutant: Formaldehyde
+44,Rhode Island,2005,1.37,,,Pollutant: Acetaldehyde
+44,Rhode Island,2005,0.61,,,Pollutant: Carbon tetrachloride
+44,Rhode Island,2005,0.06,,,"Pollutant: 1,3-butadiene"
+44,Rhode Island,2011,0.78,,,Pollutant: Benzene
+44,Rhode Island,2011,1.23,,,Pollutant: Formaldehyde
+44,Rhode Island,2011,1.39,,,Pollutant: Acetaldehyde
+44,Rhode Island,2011,0.55,,,Pollutant: Carbon tetrachloride
+44,Rhode Island,2011,0.08,,,"Pollutant: 1,3-butadiene"
+44,Rhode Island,2014,0.5,,,Pollutant: Benzene
+44,Rhode Island,2014,0.97,,,Pollutant: Formaldehyde
+44,Rhode Island,2014,0.73,,,Pollutant: Acetaldehyde
+44,Rhode Island,2014,0.55,,,Pollutant: Carbon tetrachloride
+44,Rhode Island,2014,0.04,,,"Pollutant: 1,3-butadiene"
+44,Rhode Island,2017,0.27,,,Pollutant: Benzene
+44,Rhode Island,2017,0.91,,,Pollutant: Formaldehyde
+44,Rhode Island,2017,0.7,,,Pollutant: Acetaldehyde
+44,Rhode Island,2017,0.53,,,Pollutant: Carbon tetrachloride
+44,Rhode Island,2018,0.25,,,Pollutant: Benzene
+44,Rhode Island,2018,0.8,,,Pollutant: Formaldehyde
+44,Rhode Island,2018,0.54,,,Pollutant: Acetaldehyde
+44,Rhode Island,2018,0.39,,,Pollutant: Carbon tetrachloride
+44,Rhode Island,2018,0.01,,,"Pollutant: 1,3-butadiene"
+45,South Carolina,2005,0.75,,,Pollutant: Benzene
+45,South Carolina,2005,2.25,,,Pollutant: Formaldehyde
+45,South Carolina,2005,2.32,,,Pollutant: Acetaldehyde
+45,South Carolina,2005,0.61,,,Pollutant: Carbon tetrachloride
+45,South Carolina,2005,0.04,,,"Pollutant: 1,3-butadiene"
+45,South Carolina,2011,0.46,,,Pollutant: Benzene
+45,South Carolina,2011,2.09,,,Pollutant: Formaldehyde
+45,South Carolina,2011,2.83,,,Pollutant: Acetaldehyde
+45,South Carolina,2011,0.55,,,Pollutant: Carbon tetrachloride
+45,South Carolina,2011,0.03,,,"Pollutant: 1,3-butadiene"
+45,South Carolina,2014,0.32,,,Pollutant: Benzene
+45,South Carolina,2014,1.86,,,Pollutant: Formaldehyde
+45,South Carolina,2014,1.75,,,Pollutant: Acetaldehyde
+45,South Carolina,2014,0.53,,,Pollutant: Carbon tetrachloride
+45,South Carolina,2014,0.02,,,"Pollutant: 1,3-butadiene"
+45,South Carolina,2017,0.19,,,Pollutant: Benzene
+45,South Carolina,2017,1.6,,,Pollutant: Formaldehyde
+45,South Carolina,2017,1.28,,,Pollutant: Acetaldehyde
+45,South Carolina,2017,0.51,,,Pollutant: Carbon tetrachloride
+45,South Carolina,2018,0.18,,,Pollutant: Benzene
+45,South Carolina,2018,1.43,,,Pollutant: Formaldehyde
+45,South Carolina,2018,1.14,,,Pollutant: Acetaldehyde
+45,South Carolina,2018,0.37,,,Pollutant: Carbon tetrachloride
+45,South Carolina,2018,0.01,,,"Pollutant: 1,3-butadiene"
+46,South Dakota,2005,0.37,,,Pollutant: Benzene
+46,South Dakota,2005,0.9,,,Pollutant: Formaldehyde
+46,South Dakota,2005,0.93,,,Pollutant: Acetaldehyde
+46,South Dakota,2005,0.61,,,Pollutant: Carbon tetrachloride
+46,South Dakota,2005,0.02,,,"Pollutant: 1,3-butadiene"
+46,South Dakota,2011,0.4,,,Pollutant: Benzene
+46,South Dakota,2011,0.86,,,Pollutant: Formaldehyde
+46,South Dakota,2011,1.19,,,Pollutant: Acetaldehyde
+46,South Dakota,2011,0.55,,,Pollutant: Carbon tetrachloride
+46,South Dakota,2011,0.03,,,"Pollutant: 1,3-butadiene"
+46,South Dakota,2014,0.21,,,Pollutant: Benzene
+46,South Dakota,2014,0.69,,,Pollutant: Formaldehyde
+46,South Dakota,2014,0.56,,,Pollutant: Acetaldehyde
+46,South Dakota,2014,0.52,,,Pollutant: Carbon tetrachloride
+46,South Dakota,2014,0.01,,,"Pollutant: 1,3-butadiene"
+46,South Dakota,2017,0.13,,,Pollutant: Benzene
+46,South Dakota,2017,0.66,,,Pollutant: Formaldehyde
+46,South Dakota,2017,0.5,,,Pollutant: Acetaldehyde
+46,South Dakota,2017,0.49,,,Pollutant: Carbon tetrachloride
+46,South Dakota,2018,0.2,,,Pollutant: Benzene
+46,South Dakota,2018,0.57,,,Pollutant: Formaldehyde
+46,South Dakota,2018,0.39,,,Pollutant: Acetaldehyde
+46,South Dakota,2018,0.36,,,Pollutant: Carbon tetrachloride
+46,South Dakota,2018,0,,,"Pollutant: 1,3-butadiene"
+47,Tennessee,2005,0.92,,,Pollutant: Benzene
+47,Tennessee,2005,2.29,,,Pollutant: Formaldehyde
+47,Tennessee,2005,2.41,,,Pollutant: Acetaldehyde
+47,Tennessee,2005,0.61,,,Pollutant: Carbon tetrachloride
+47,Tennessee,2005,0.05,,,"Pollutant: 1,3-butadiene"
+47,Tennessee,2011,0.44,,,Pollutant: Benzene
+47,Tennessee,2011,2.05,,,Pollutant: Formaldehyde
+47,Tennessee,2011,2.68,,,Pollutant: Acetaldehyde
+47,Tennessee,2011,0.55,,,Pollutant: Carbon tetrachloride
+47,Tennessee,2011,0.03,,,"Pollutant: 1,3-butadiene"
+47,Tennessee,2014,0.33,,,Pollutant: Benzene
+47,Tennessee,2014,1.65,,,Pollutant: Formaldehyde
+47,Tennessee,2014,1.36,,,Pollutant: Acetaldehyde
+47,Tennessee,2014,0.53,,,Pollutant: Carbon tetrachloride
+47,Tennessee,2014,0.02,,,"Pollutant: 1,3-butadiene"
+47,Tennessee,2017,0.19,,,Pollutant: Benzene
+47,Tennessee,2017,1.41,,,Pollutant: Formaldehyde
+47,Tennessee,2017,1.06,,,Pollutant: Acetaldehyde
+47,Tennessee,2017,0.5,,,Pollutant: Carbon tetrachloride
+47,Tennessee,2018,0.19,,,Pollutant: Benzene
+47,Tennessee,2018,1.28,,,Pollutant: Formaldehyde
+47,Tennessee,2018,0.99,,,Pollutant: Acetaldehyde
+47,Tennessee,2018,0.37,,,Pollutant: Carbon tetrachloride
+47,Tennessee,2018,0.01,,,"Pollutant: 1,3-butadiene"
+48,Texas,2005,0.93,,,Pollutant: Benzene
+48,Texas,2005,2.05,,,Pollutant: Formaldehyde
+48,Texas,2005,1.88,,,Pollutant: Acetaldehyde
+48,Texas,2005,0.61,,,Pollutant: Carbon tetrachloride
+48,Texas,2005,0.06,,,"Pollutant: 1,3-butadiene"
+48,Texas,2011,0.49,,,Pollutant: Benzene
+48,Texas,2011,1.91,,,Pollutant: Formaldehyde
+48,Texas,2011,2.27,,,Pollutant: Acetaldehyde
+48,Texas,2011,0.55,,,Pollutant: Carbon tetrachloride
+48,Texas,2011,0.05,,,"Pollutant: 1,3-butadiene"
+48,Texas,2014,0.25,,,Pollutant: Benzene
+48,Texas,2014,1.56,,,Pollutant: Formaldehyde
+48,Texas,2014,1.18,,,Pollutant: Acetaldehyde
+48,Texas,2014,0.52,,,Pollutant: Carbon tetrachloride
+48,Texas,2014,0.02,,,"Pollutant: 1,3-butadiene"
+48,Texas,2017,0.15,,,Pollutant: Benzene
+48,Texas,2017,1.22,,,Pollutant: Formaldehyde
+48,Texas,2017,0.88,,,Pollutant: Acetaldehyde
+48,Texas,2017,0.49,,,Pollutant: Carbon tetrachloride
+48,Texas,2018,0.16,,,Pollutant: Benzene
+48,Texas,2018,1.01,,,Pollutant: Formaldehyde
+48,Texas,2018,0.62,,,Pollutant: Acetaldehyde
+48,Texas,2018,0.36,,,Pollutant: Carbon tetrachloride
+48,Texas,2018,0,,,"Pollutant: 1,3-butadiene"
+49,Utah,2005,1.02,,,Pollutant: Benzene
+49,Utah,2005,1.3,,,Pollutant: Formaldehyde
+49,Utah,2005,1.19,,,Pollutant: Acetaldehyde
+49,Utah,2005,0.61,,,Pollutant: Carbon tetrachloride
+49,Utah,2005,0.06,,,"Pollutant: 1,3-butadiene"
+49,Utah,2011,0.57,,,Pollutant: Benzene
+49,Utah,2011,1.07,,,Pollutant: Formaldehyde
+49,Utah,2011,1.29,,,Pollutant: Acetaldehyde
+49,Utah,2011,0.55,,,Pollutant: Carbon tetrachloride
+49,Utah,2011,0.06,,,"Pollutant: 1,3-butadiene"
+49,Utah,2014,0.25,,,Pollutant: Benzene
+49,Utah,2014,0.94,,,Pollutant: Formaldehyde
+49,Utah,2014,0.76,,,Pollutant: Acetaldehyde
+49,Utah,2014,0.45,,,Pollutant: Carbon tetrachloride
+49,Utah,2014,0.02,,,"Pollutant: 1,3-butadiene"
+49,Utah,2017,0.09,,,Pollutant: Benzene
+49,Utah,2017,0.61,,,Pollutant: Formaldehyde
+49,Utah,2017,0.36,,,Pollutant: Acetaldehyde
+49,Utah,2017,0.43,,,Pollutant: Carbon tetrachloride
+49,Utah,2018,0.09,,,Pollutant: Benzene
+49,Utah,2018,0.57,,,Pollutant: Formaldehyde
+49,Utah,2018,0.31,,,Pollutant: Acetaldehyde
+49,Utah,2018,0.31,,,Pollutant: Carbon tetrachloride
+49,Utah,2018,0,,,"Pollutant: 1,3-butadiene"
+50,Vermont,2005,0.61,,,Pollutant: Benzene
+50,Vermont,2005,0.96,,,Pollutant: Formaldehyde
+50,Vermont,2005,1.13,,,Pollutant: Acetaldehyde
+50,Vermont,2005,0.61,,,Pollutant: Carbon tetrachloride
+50,Vermont,2005,0.03,,,"Pollutant: 1,3-butadiene"
+50,Vermont,2011,0.55,,,Pollutant: Benzene
+50,Vermont,2011,0.86,,,Pollutant: Formaldehyde
+50,Vermont,2011,1.21,,,Pollutant: Acetaldehyde
+50,Vermont,2011,0.55,,,Pollutant: Carbon tetrachloride
+50,Vermont,2011,0.03,,,"Pollutant: 1,3-butadiene"
+50,Vermont,2014,0.34,,,Pollutant: Benzene
+50,Vermont,2014,0.81,,,Pollutant: Formaldehyde
+50,Vermont,2014,0.76,,,Pollutant: Acetaldehyde
+50,Vermont,2014,0.54,,,Pollutant: Carbon tetrachloride
+50,Vermont,2014,0.01,,,"Pollutant: 1,3-butadiene"
+50,Vermont,2017,0.25,,,Pollutant: Benzene
+50,Vermont,2017,0.75,,,Pollutant: Formaldehyde
+50,Vermont,2017,0.73,,,Pollutant: Acetaldehyde
+50,Vermont,2017,0.51,,,Pollutant: Carbon tetrachloride
+50,Vermont,2018,0.25,,,Pollutant: Benzene
+50,Vermont,2018,0.7,,,Pollutant: Formaldehyde
+50,Vermont,2018,0.6,,,Pollutant: Acetaldehyde
+50,Vermont,2018,0.38,,,Pollutant: Carbon tetrachloride
+50,Vermont,2018,0.01,,,"Pollutant: 1,3-butadiene"
+51,Virginia,2005,0.95,,,Pollutant: Benzene
+51,Virginia,2005,1.99,,,Pollutant: Formaldehyde
+51,Virginia,2005,1.88,,,Pollutant: Acetaldehyde
+51,Virginia,2005,0.61,,,Pollutant: Carbon tetrachloride
+51,Virginia,2005,0.06,,,"Pollutant: 1,3-butadiene"
+51,Virginia,2011,0.63,,,Pollutant: Benzene
+51,Virginia,2011,1.83,,,Pollutant: Formaldehyde
+51,Virginia,2011,2.25,,,Pollutant: Acetaldehyde
+51,Virginia,2011,0.55,,,Pollutant: Carbon tetrachloride
+51,Virginia,2011,0.06,,,"Pollutant: 1,3-butadiene"
+51,Virginia,2014,0.35,,,Pollutant: Benzene
+51,Virginia,2014,1.4,,,Pollutant: Formaldehyde
+51,Virginia,2014,1.14,,,Pollutant: Acetaldehyde
+51,Virginia,2014,0.53,,,Pollutant: Carbon tetrachloride
+51,Virginia,2014,0.02,,,"Pollutant: 1,3-butadiene"
+51,Virginia,2017,0.21,,,Pollutant: Benzene
+51,Virginia,2017,1.28,,,Pollutant: Formaldehyde
+51,Virginia,2017,0.95,,,Pollutant: Acetaldehyde
+51,Virginia,2017,0.5,,,Pollutant: Carbon tetrachloride
+51,Virginia,2018,0.21,,,Pollutant: Benzene
+51,Virginia,2018,1.12,,,Pollutant: Formaldehyde
+51,Virginia,2018,0.84,,,Pollutant: Acetaldehyde
+51,Virginia,2018,0.37,,,Pollutant: Carbon tetrachloride
+51,Virginia,2018,0.01,,,"Pollutant: 1,3-butadiene"
+53,Washington,2005,1.18,,,Pollutant: Benzene
+53,Washington,2005,1.57,,,Pollutant: Formaldehyde
+53,Washington,2005,1.35,,,Pollutant: Acetaldehyde
+53,Washington,2005,0.61,,,Pollutant: Carbon tetrachloride
+53,Washington,2005,0.08,,,"Pollutant: 1,3-butadiene"
+53,Washington,2011,1.01,,,Pollutant: Benzene
+53,Washington,2011,1.37,,,Pollutant: Formaldehyde
+53,Washington,2011,1.43,,,Pollutant: Acetaldehyde
+53,Washington,2011,0.55,,,Pollutant: Carbon tetrachloride
+53,Washington,2011,0.12,,,"Pollutant: 1,3-butadiene"
+53,Washington,2014,0.52,,,Pollutant: Benzene
+53,Washington,2014,1.26,,,Pollutant: Formaldehyde
+53,Washington,2014,1.21,,,Pollutant: Acetaldehyde
+53,Washington,2014,0.53,,,Pollutant: Carbon tetrachloride
+53,Washington,2014,0.06,,,"Pollutant: 1,3-butadiene"
+53,Washington,2017,0.27,,,Pollutant: Benzene
+53,Washington,2017,1.37,,,Pollutant: Formaldehyde
+53,Washington,2017,1.17,,,Pollutant: Acetaldehyde
+53,Washington,2017,0.5,,,Pollutant: Carbon tetrachloride
+53,Washington,2018,0.19,,,Pollutant: Benzene
+53,Washington,2018,0.89,,,Pollutant: Formaldehyde
+53,Washington,2018,0.81,,,Pollutant: Acetaldehyde
+53,Washington,2018,0.36,,,Pollutant: Carbon tetrachloride
+53,Washington,2018,0.01,,,"Pollutant: 1,3-butadiene"
+54,West Virginia,2005,0.66,,,Pollutant: Benzene
+54,West Virginia,2005,1.53,,,Pollutant: Formaldehyde
+54,West Virginia,2005,1.63,,,Pollutant: Acetaldehyde
+54,West Virginia,2005,0.61,,,Pollutant: Carbon tetrachloride
+54,West Virginia,2005,0.03,,,"Pollutant: 1,3-butadiene"
+54,West Virginia,2011,0.52,,,Pollutant: Benzene
+54,West Virginia,2011,1.39,,,Pollutant: Formaldehyde
+54,West Virginia,2011,1.88,,,Pollutant: Acetaldehyde
+54,West Virginia,2011,0.55,,,Pollutant: Carbon tetrachloride
+54,West Virginia,2011,0.03,,,"Pollutant: 1,3-butadiene"
+54,West Virginia,2014,0.37,,,Pollutant: Benzene
+54,West Virginia,2014,1.21,,,Pollutant: Formaldehyde
+54,West Virginia,2014,0.91,,,Pollutant: Acetaldehyde
+54,West Virginia,2014,0.53,,,Pollutant: Carbon tetrachloride
+54,West Virginia,2014,0.01,,,"Pollutant: 1,3-butadiene"
+54,West Virginia,2017,0.3,,,Pollutant: Benzene
+54,West Virginia,2017,1.22,,,Pollutant: Formaldehyde
+54,West Virginia,2017,0.88,,,Pollutant: Acetaldehyde
+54,West Virginia,2017,0.5,,,Pollutant: Carbon tetrachloride
+54,West Virginia,2018,0.32,,,Pollutant: Benzene
+54,West Virginia,2018,1.08,,,Pollutant: Formaldehyde
+54,West Virginia,2018,0.76,,,Pollutant: Acetaldehyde
+54,West Virginia,2018,0.36,,,Pollutant: Carbon tetrachloride
+54,West Virginia,2018,0.01,,,"Pollutant: 1,3-butadiene"
+55,Wisconsin,2005,1.11,,,Pollutant: Benzene
+55,Wisconsin,2005,1.64,,,Pollutant: Formaldehyde
+55,Wisconsin,2005,1.54,,,Pollutant: Acetaldehyde
+55,Wisconsin,2005,0.61,,,Pollutant: Carbon tetrachloride
+55,Wisconsin,2005,0.06,,,"Pollutant: 1,3-butadiene"
+55,Wisconsin,2011,0.6,,,Pollutant: Benzene
+55,Wisconsin,2011,1.07,,,Pollutant: Formaldehyde
+55,Wisconsin,2011,1.39,,,Pollutant: Acetaldehyde
+55,Wisconsin,2011,0.55,,,Pollutant: Carbon tetrachloride
+55,Wisconsin,2011,0.05,,,"Pollutant: 1,3-butadiene"
+55,Wisconsin,2014,0.35,,,Pollutant: Benzene
+55,Wisconsin,2014,0.78,,,Pollutant: Formaldehyde
+55,Wisconsin,2014,0.66,,,Pollutant: Acetaldehyde
+55,Wisconsin,2014,0.54,,,Pollutant: Carbon tetrachloride
+55,Wisconsin,2014,0.02,,,"Pollutant: 1,3-butadiene"
+55,Wisconsin,2017,0.2,,,Pollutant: Benzene
+55,Wisconsin,2017,0.72,,,Pollutant: Formaldehyde
+55,Wisconsin,2017,0.64,,,Pollutant: Acetaldehyde
+55,Wisconsin,2017,0.52,,,Pollutant: Carbon tetrachloride
+55,Wisconsin,2018,0.26,,,Pollutant: Benzene
+55,Wisconsin,2018,0.71,,,Pollutant: Formaldehyde
+55,Wisconsin,2018,0.55,,,Pollutant: Acetaldehyde
+55,Wisconsin,2018,0.38,,,Pollutant: Carbon tetrachloride
+55,Wisconsin,2018,0.01,,,"Pollutant: 1,3-butadiene"
+56,Wyoming,2005,0.48,,,Pollutant: Benzene
+56,Wyoming,2005,0.74,,,Pollutant: Formaldehyde
+56,Wyoming,2005,0.78,,,Pollutant: Acetaldehyde
+56,Wyoming,2005,0.61,,,Pollutant: Carbon tetrachloride
+56,Wyoming,2005,0.02,,,"Pollutant: 1,3-butadiene"
+56,Wyoming,2011,0.37,,,Pollutant: Benzene
+56,Wyoming,2011,0.72,,,Pollutant: Formaldehyde
+56,Wyoming,2011,1.07,,,Pollutant: Acetaldehyde
+56,Wyoming,2011,0.55,,,Pollutant: Carbon tetrachloride
+56,Wyoming,2011,0.02,,,"Pollutant: 1,3-butadiene"
+56,Wyoming,2014,0.14,,,Pollutant: Benzene
+56,Wyoming,2014,0.66,,,Pollutant: Formaldehyde
+56,Wyoming,2014,0.55,,,Pollutant: Acetaldehyde
+56,Wyoming,2014,0.46,,,Pollutant: Carbon tetrachloride
+56,Wyoming,2014,0.01,,,"Pollutant: 1,3-butadiene"
+56,Wyoming,2017,0.09,,,Pollutant: Benzene
+56,Wyoming,2017,0.54,,,Pollutant: Formaldehyde
+56,Wyoming,2017,0.37,,,Pollutant: Acetaldehyde
+56,Wyoming,2017,0.43,,,Pollutant: Carbon tetrachloride
+56,Wyoming,2018,0.1,,,Pollutant: Benzene
+56,Wyoming,2018,0.51,,,Pollutant: Formaldehyde
+56,Wyoming,2018,0.31,,,Pollutant: Acetaldehyde
+56,Wyoming,2018,0.31,,,Pollutant: Carbon tetrachloride
+56,Wyoming,2018,0,,,"Pollutant: 1,3-butadiene"
